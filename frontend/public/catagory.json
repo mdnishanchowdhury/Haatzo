@@ -1,0 +1,46 @@
+[
+    {
+        "name": "Fruits & Vegetables",
+        "image": "https://i.ibb.co.com/27Yfgxbw/Fruits-Vegetables.png"
+    },
+    {
+        "name": "Meats & Seafood",
+        "image": "https://i.ibb.co.com/yF3zNgx9/Meats-Seafood.png"
+    },
+    {
+        "name": "Breakfast & Dairy",
+        "image": "https://i.ibb.co.com/RT9T79hf/Breaksfast-Dairy.png"
+    },
+    {
+        "name": "Breads & Bakery",
+        "image": "https://i.ibb.co.com/r2jDpV8m/Breads-Bakery.png"
+    },
+    {
+        "name": "Beverages",
+        "image": "https://i.ibb.co.com/TfyDrS4/Beverages.png"
+    },
+    {
+        "name": "Frozen Foods",
+        "image": "https://i.ibb.co.com/8gXpp1Ht/Frozen-Foods.png"
+    },
+    {
+        "name": "Biscuits & Snacks",
+        "image": "https://i.ibb.co.com/Lzn8mQPk/Biscuits-Snacks.png"
+    },
+    {
+        "name": "Grocery & Staples",
+        "image": "https://i.ibb.co.com/4RFh0Yhg/Grocery-Staples.png"
+    },
+    {
+        "name": "Household Needs",
+        "image": "https://i.ibb.co.com/m5WWPVqb/household-848x388-removebg-preview.png"
+    },
+    {
+        "name": "Healthcare",
+        "image": "https://i.ibb.co.com/KcP5DkDy/images-removebg-preview.png"
+    },
+    {
+        "name": "Baby & Pregnancy",
+        "image": "https://i.ibb.co.com/SwSbr8Gv/Baby-Pregnancy.png"
+    }
+]
