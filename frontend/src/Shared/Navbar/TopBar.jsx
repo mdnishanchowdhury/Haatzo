@@ -1,6 +1,7 @@
 import { useEffect, useState, useMemo } from "react";
 
 function TopBar() {
+    
     const [timeLeft, setTimeLeft] = useState({ days: "00", hours: "00", minutes: "00", seconds: "00" });
 
     const endDate = useMemo(() => {
