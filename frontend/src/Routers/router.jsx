@@ -1,6 +1,7 @@
 import { createBrowserRouter } from "react-router-dom";
 import Main from "../Layout/Main";
 import Home from "../Page/Home/Home/Home";
+import ShopSidebar from "../Page/ShopPage/ShopSidebar";
 
 export const router = createBrowserRouter([
     {
@@ -14,6 +15,10 @@ export const router = createBrowserRouter([
             {
                 path: '/category/beverages',
                 element: <h2>Beverages</h2>
+            },
+            {
+                path: '/shopPage',
+                element: <ShopSidebar></ShopSidebar>
             },
             {
                 path: '*',

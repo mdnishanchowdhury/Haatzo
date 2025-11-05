@@ -138,9 +138,9 @@ function MainNavbar() {
                             </div>
                         </div>
                         <ul tabIndex={-1} className="menu menu-sm dropdown-content bg-base-100 rounded-box z-50 mt-3 w-52 p-2 shadow">
-                            <li><a className="justify-between">Profile <span className="badge">New</span></a></li>
-                            <li><a>Settings</a></li>
-                            <li><a>Logout</a></li>
+                            <li><a className="justify-between text-[15px] font-normal">Profile</a></li>
+                            <li><a className=" text-[15px] font-normal">Settings</a></li>
+                            <li><a className=" text-[15px] font-normal">Logout</a></li>
                         </ul>
                     </div>
 
