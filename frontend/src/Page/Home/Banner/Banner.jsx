@@ -55,7 +55,6 @@ function Banner() {
                                 <button className="bg-[#634C9F] hover:bg-blue-700 px-6 py-2 rounded text-white font-bold text-[14px]">
                                     Shop Now
                                 </button>
-
                                 <div>
                                     <h2 className=' text-red-500 text-[28px] font-bold'>{slide.discountPrice} <span className="line-through text-black text-xl font-medium ml-2">{slide.price}</span></h2>
                                     <p className='text-xs font-normal text-[#030712]'>Don't miss this limited time offer.</p>
