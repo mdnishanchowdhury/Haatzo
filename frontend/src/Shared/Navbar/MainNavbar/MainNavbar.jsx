@@ -1,20 +1,84 @@
 import { useEffect, useState } from "react";
-import { Link, NavLink } from "react-router-dom";
+import { Link, NavLink, useNavigate } from "react-router-dom";
 import { MdOutlineMenu, MdFavorite, MdShoppingCart } from "react-icons/md";
 import SearchBar from "./SearchBar";
+import useCategory from "../../../Hook/useCategory";
 
 function MainNavbar() {
     const [menuOpen, setMenuOpen] = useState(false);
+    const [category] = useCategory();
+    const [activeCategory, setActiveCategory] = useState("");
+    const [categoryOpen, setCategoryOpen] = useState(false);
     const [isFixed, setFixed] = useState(false);
+    const navigate = useNavigate();
+
+
     const cartCount = 8;
 
-    const navLinks = [
-        { name: "Home", path: "/" },
-        { name: "Dashboard", path: "/auth" },
-        { name: "Blog", path: "/blog" },
-        { name: "Contact", path: "/contact" },
-        { name: "Trending Products", path: "/trending" },
-    ];
+
+    // category handler
+    const handleCategoryClick = (name) => {
+        setActiveCategory(name);
+        setCategoryOpen(false);
+        navigate(`/category/${name}`);
+    }
+
+    // navbar button css
+    const linkClass =
+        "text-[15px] font-semibold transition-all duration-300 hover:text-blue-600 hover:-translate-y-0.5";
+    const activeClass = "text-blue-600 font-bold";
+
+    const links = (
+        <>
+            <li> <NavLink to="/"
+                className={({ isActive }) => (isActive ? `${linkClass} ${activeClass}` : linkClass)}>
+                Home
+            </NavLink></li>
+
+            {/* Categories Dropdown */}
+            <li className="relative group">
+                <span
+                    className={linkClass + " cursor-pointer"} onClick={() => setCategoryOpen(!categoryOpen)}>
+                    Categories
+                </span>
+                <ul className={`absolute left-0 top-full bg-white p-2 rounded shadow-lg min-w-[200px] z-50 ${categoryOpen ? "block" : "hidden"} lg:group-hover:block`}>
+                    {
+                        category.map((item) => (
+                            <li key={item.id}>
+                                <button
+                                    onClick={() => handleCategoryClick(item.name)}
+                                    className={`block px-2 py-1 w-full text-left hover:bg-gray-100 ${activeCategory === item.name ? "text-blue-600 font-bold" : ""
+                                        }`}
+                                >
+                                    {item.name}
+                                </button>
+                            </li>
+                        ))
+                    }
+                </ul>
+            </li>
+
+            <li><NavLink to="/auth"
+                className={({ isActive }) => (isActive ? `${linkClass} ${activeClass}` : linkClass)}>
+                Dashboard
+            </NavLink></li>
+
+            <li> <NavLink to="/blog"
+                className={({ isActive }) => (isActive ? `${linkClass} ${activeClass}` : linkClass)} >
+                Blog
+            </NavLink> </li>
+
+            <li> <NavLink to="/contact"
+                className={({ isActive }) => (isActive ? `${linkClass} ${activeClass}` : linkClass)}  >
+                Contact
+            </NavLink></li>
+
+            <li> <NavLink to="/trending"
+                className={({ isActive }) => (isActive ? `${linkClass} ${activeClass}` : linkClass)}>
+                Trending Products
+            </NavLink></li>
+        </>
+    );
 
     useEffect(() => {
         const handleScroll = () => setFixed(window.scrollY > 50);
@@ -22,13 +86,8 @@ function MainNavbar() {
         return () => window.removeEventListener("scroll", handleScroll);
     }, []);
 
-    const linkClass = "text-[15px] font-semibold transition-all duration-300 hover:text-blue-600 hover:-translate-y-0.5";
-    const baseClass = "text-[15px] font-semibold transition-all duration-300 hover:text-blue-600 hover:-translate-y-0.5";
-    const activeClass = "text-blue-600 font-bold";
-
     return (
-        <nav className={`w-full border-y border-gray-200 transition-all duration-300 bg-white font-inter ${isFixed ? "fixed top-0 left-0 z-50 mt-0" : "relative"
-            }`}>
+        <nav className={`w-full border-y border-gray-200 transition-all duration-300 bg-white font-inter ${isFixed ? "fixed top-0 left-0 z-50 mt-0" : "relative"}`}>
             <div className="h-16 flex items-center justify-between px-4 md:px-20">
 
                 {/* Left: Logo + Mobile Menu */}
@@ -36,38 +95,23 @@ function MainNavbar() {
                     <button className="lg:hidden" onClick={() => setMenuOpen(!menuOpen)}>
                         <MdOutlineMenu className="w-6 h-6" />
                     </button>
-                    {/* <Link to="/" className="text-xl font-bold">HaatZo</Link> */}
-                    <img src="https://i.ibb.co.com/5X0NF1qH/banner-Logo.png" className="w-30 h-28 object-cover" alt="" />
+                    <img src="https://i.ibb.co.com/5X0NF1qH/banner-Logo.png" className="w-30 h-28 object-cover" alt="Logo" />
                 </div>
 
                 {/* Center: Desktop Links */}
                 <ul className="hidden lg:flex space-x-6 font-medium text-gray-700">
-                    {
-                        navLinks.map((link) => (
-                            <li key={link.name}>
-                                <NavLink
-                                    to={link.path}
-                                    className={({ isActive }) => isActive ? `${baseClass} ${activeClass}` : baseClass}
-                                >
-                                    {link.name}
-                                </NavLink>
-                            </li>
-                        ))
-                    }
+                    {links}
                 </ul>
 
                 {/* Right: Actions */}
                 <div className="flex items-center gap-1 md:gap-4">
-
-                    {/* Search */}
                     <SearchBar />
 
-                    {/* Wishlist / Love */}
                     <button className="btn btn-ghost btn-circle relative">
                         <MdFavorite className="w-6 h-6 text-red-500" />
                     </button>
 
-                    {/* Cart dropdown */}
+                    {/* Cart */}
                     <div className="dropdown dropdown-end">
                         <div tabIndex={0} className="btn btn-ghost btn-circle">
                             <div className="indicator">
@@ -86,26 +130,20 @@ function MainNavbar() {
                         </div>
                     </div>
 
-                    {/* Avatar dropdown */}
+                    {/* Avatar */}
                     <div className="dropdown dropdown-end">
                         <div tabIndex={0} className="btn btn-ghost btn-circle avatar">
                             <div className="w-10 rounded-full">
-                                <img
-                                    alt="avatar"
-                                    src="https://img.daisyui.com/images/stock/photo-1534528741775-53994a69daeb.webp"
-                                />
+                                <img alt="avatar" src="https://img.daisyui.com/images/stock/photo-1534528741775-53994a69daeb.webp" />
                             </div>
                         </div>
                         <ul tabIndex={-1} className="menu menu-sm dropdown-content bg-base-100 rounded-box z-50 mt-3 w-52 p-2 shadow">
-                            <li>
-                                <a className="justify-between">Profile <span className="badge">New</span></a>
-                            </li>
+                            <li><a className="justify-between">Profile <span className="badge">New</span></a></li>
                             <li><a>Settings</a></li>
                             <li><a>Logout</a></li>
                         </ul>
                     </div>
 
-                    {/* Login / SignUp */}
                     <div className="flex gap-2">
                         <Link to="/login" className="btn btn-sm btn-outline">Login</Link>
                         <Link to="/signUp" className="btn btn-sm btn-primary">SignUp</Link>
@@ -114,24 +152,15 @@ function MainNavbar() {
             </div>
 
             {/* Mobile Menu */}
-            {menuOpen && (
-                <div className="lg:hidden border-t border-gray-200 bg-white">
-                    <ul className="p-4 space-y-2">
-                        {
-                            navLinks.map((link) => (
-                                <li key={link.name}>
-                                    <NavLink
-                                        to={link.path}
-                                        className={({ isActive }) => isActive ? `${baseClass} ${activeClass}` : baseClass}
-                                    >
-                                        {link.name}
-                                    </NavLink>
-                                </li>
-                            ))
-                        }
-                    </ul>
-                </div>
-            )}
+            {
+                menuOpen && (
+                    <div className="lg:hidden border-t border-gray-200 bg-white">
+                        <ul className="p-4 space-y-2">
+                            {links}
+                        </ul>
+                    </div>
+                )
+            }
         </nav>
     );
 }

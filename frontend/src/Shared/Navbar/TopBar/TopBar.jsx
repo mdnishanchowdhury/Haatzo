@@ -41,11 +41,11 @@ function TopBar() {
             </span>
 
             <div className="flex flex-wrap md:flex-nowrap items-center gap-1 justify-center md:justify-end">
-                <span className="opacity-80 text-xs font-medium font-inter">Until the end of the sale:</span>
+                <span className="opacity-80 text-xs font-normal font-inter">Until the end of the sale:</span>
                 {["days", "hours", "minutes", "seconds"].map((key) => (
                     <span key={key} className="flex items-center gap-2">
-                        <span className="font-bold text-[18px] font-inter">{timeLeft[key]}</span>
-                        <span className="opacity-80 text-xs font-medium font-inter">{key}</span>
+                        <span className="font-bold text-xs font-inter">{timeLeft[key]}</span>
+                        <span className="opacity-80 text-xs font-normal font-inter">{key}</span>
                     </span>
                 ))}
             </div>

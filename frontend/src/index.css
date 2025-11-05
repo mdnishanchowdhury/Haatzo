@@ -5,3 +5,7 @@ body {
     background-color: white;
     color: black;
 }
+
+@theme {
+    --font-inter: "Inter", "sans-serif";
+}

@@ -10,9 +10,9 @@ function HeaderNav() {
 
             {/* Left links */}
             <ul className="flex bg-none justify-center md:flex-row items-center gap-2 md:gap-6 text-[#6B7280] font-inter">
-                <li className="opacity-80 font-medium text-xs"><Link>About Us</Link></li>
-                <li className="opacity-80 font-medium text-xs"><Link>My Account</Link></li>
-                <h2 className="opacity-80 font-medium text-xs text-center md:text-left">
+                <li className="opacity-80 font-normal text-xs"><Link>About Us</Link></li>
+                <li className="opacity-80 font-normal text-xs"><Link>My Account</Link></li>
+                <h2 className="opacity-80 font-normal text-xs text-center md:text-left">
                     We deliver to you every day from <span className="text-[#514d47]">7:00 to 23:00</span>
                 </h2>
             </ul>
