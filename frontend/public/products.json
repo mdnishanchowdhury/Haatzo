@@ -1,0 +1,1710 @@
+[
+  {
+    "_id": "68a3552d9ae04e14f19e90a3",
+    "name": "Product 3 – Household",
+    "thumbnail": "https://i.ibb.co.com/LXLP9xmb/Screenshot-2025-08-26-134743-removebg-preview.png",
+    "discount": "55",
+    "rating": 4.7,
+    "reviewsCount": 19,
+    "price": 391,
+    "stock": "OUT OF STOCK",
+    "labels": [
+      "FRESH"
+    ],
+    "category": "Household Needs",
+    "quantity": "38",
+    "summary": {
+      "shortDescription": "This is a short description for Product 3 – Household."
+    },
+    "details": {
+      "description": "This is a detailed description for Product 3 – Household. Quality assured.",
+      "images": [
+        "https://i.ibb.co/hxWLf34B/ea537991dadbe489565ab20b2cb83e3c47b2e589.jpg"
+      ],
+      "specialOfferCountdown": [
+        "59",
+        "29",
+        "83",
+        "56"
+      ],
+      "paymentInfo": "Cash on delivery, Google Pay, Online card",
+      "warrantyInfo": "No warranty; proper-quality products."
+    }
+  },
+  {
+    "_id": "68a3552d9ae04e14f19e90a5",
+    "name": "Product 5 – Baby",
+    "thumbnail": "https://i.ibb.co.com/gLKs70xr/Screenshot-2025-08-26-135020-removebg-preview.png",
+    "discount": "50",
+    "rating": 2.6,
+    "reviewsCount": 3,
+    "price": 1061,
+    "stock": "IN STOCK",
+    "labels": [
+      "SALE",
+      "HOT"
+    ],
+    "category": "Baby & Pregnancy",
+    "quantity": "90",
+    "summary": {
+      "shortDescription": "This is a short description for Product 5 – Baby."
+    },
+    "details": {
+      "description": "This is a detailed description for Product 5 – Baby. Quality assured.",
+      "images": [
+        "https://i.ibb.co/hxWLf34B/ea537991dadbe489565ab20b2cb83e3c47b2e589.jpg"
+      ],
+      "specialOfferCountdown": [
+        "6",
+        "6",
+        "6",
+        "6"
+      ],
+      "paymentInfo": "Cash on delivery, Google Pay, Online card",
+      "warrantyInfo": "No warranty; proper-quality products."
+    }
+  },
+  {
+    "_id": "68a3552d9ae04e14f19e90a6",
+    "name": "Product 6 – Fruits",
+    "thumbnail": "https://i.ibb.co.com/pvhzPQd5/silo-product-image-v2-02-Apr2025-180217-6001240239353-Extra-306223-2281-400-Wx400-H-removebg-preview.png",
+    "discount": "0",
+    "rating": 4.2,
+    "reviewsCount": 32,
+    "price": 355,
+    "stock": "IN STOCK",
+    "labels": [
+      "SALE"
+    ],
+    "category": "Fruits & Vegetables",
+    "quantity": "0",
+    "summary": {
+      "shortDescription": "This is a short description for Product 6 – Fruits."
+    },
+    "details": {
+      "description": "This is a detailed description for Product 6 – Fruits. Quality assured.",
+      "images": [
+        "https://i.ibb.co/hxWLf34B/ea537991dadbe489565ab20b2cb83e3c47b2e589.jpg"
+      ],
+      "specialOfferCountdown": [
+        "83",
+        "99",
+        "91",
+        "83"
+      ],
+      "paymentInfo": "Cash on delivery, Google Pay, Online card",
+      "warrantyInfo": "No warranty; proper-quality products."
+    }
+  },
+  {
+    "_id": "68a3552d9ae04e14f19e90a8",
+    "name": "Product 8 – Fruits",
+    "thumbnail": "https://i.ibb.co.com/sdJc7qNJ/images-removebg-preview.png",
+    "discount": "12",
+    "rating": 4,
+    "reviewsCount": 6,
+    "price": 624,
+    "stock": "OUT OF STOCK",
+    "labels": [],
+    "category": "Fruits & Vegetables",
+    "quantity": "74",
+    "summary": {
+      "shortDescription": "This is a short description for Product 8 – Fruits."
+    },
+    "details": {
+      "description": "This is a detailed description for Product 8 – Fruits. Quality assured.",
+      "images": [
+        "https://i.ibb.co/hxWLf34B/ea537991dadbe489565ab20b2cb83e3c47b2e589.jpg"
+      ],
+      "specialOfferCountdown": [
+        "37",
+        "65",
+        "21",
+        "30"
+      ],
+      "paymentInfo": "Cash on delivery, Google Pay, Online card",
+      "warrantyInfo": "No warranty; proper-quality products."
+    }
+  },
+  {
+    "_id": "68a3552d9ae04e14f19e90ac",
+    "name": "Product 12 – Breads",
+    "thumbnail": "https://i.ibb.co.com/Xxt11JGy/8f16fce1ad3cf628fcc284cca06eaea5a358022e359fe1fdc25c071918f3d517-removebg-preview.png",
+    "discount": "5",
+    "rating": 3.8,
+    "reviewsCount": 10,
+    "price": 253,
+    "stock": "IN STOCK",
+    "labels": [],
+    "category": "Breads & Bakery",
+    "quantity": "49",
+    "summary": {
+      "shortDescription": "This is a short description for Product 12 – Breads."
+    },
+    "details": {
+      "description": "This is a detailed description for Product 12 – Breads. Quality assured.",
+      "images": [
+        "https://i.ibb.co/hxWLf34B/ea537991dadbe489565ab20b2cb83e3c47b2e589.jpg"
+      ],
+      "specialOfferCountdown": [
+        "06",
+        "80",
+        "64",
+        "22"
+      ],
+      "paymentInfo": "Cash on delivery, Google Pay, Online card",
+      "warrantyInfo": "No warranty; proper-quality products."
+    }
+  },
+  {
+    "_id": "68a3552d9ae04e14f19e90ae",
+    "name": "Product 14 – Baby",
+    "thumbnail": "https://i.ibb.co.com/bjTHcW3f/Screenshot-2025-08-26-140053-removebg-preview.png",
+    "discount": "13",
+    "rating": 3.2,
+    "reviewsCount": 3,
+    "price": 362,
+    "stock": "OUT OF STOCK",
+    "labels": [
+      "FRESH",
+      "NEW"
+    ],
+    "category": "Baby & Pregnancy",
+    "quantity": "15",
+    "summary": {
+      "shortDescription": "This is a short description for Product 14 – Baby."
+    },
+    "details": {
+      "description": "This is a detailed description for Product 14 – Baby. Quality assured.",
+      "images": [
+        "https://i.ibb.co/hxWLf34B/ea537991dadbe489565ab20b2cb83e3c47b2e589.jpg"
+      ],
+      "specialOfferCountdown": [
+        "91",
+        "73",
+        "91",
+        "20"
+      ],
+      "paymentInfo": "Cash on delivery, Google Pay, Online card",
+      "warrantyInfo": "No warranty; proper-quality products."
+    }
+  },
+  {
+    "_id": "68a3552d9ae04e14f19e90b0",
+    "name": "Product 16 – Breads",
+    "thumbnail": "https://i.ibb.co.com/VcXQjNC1/Polar-bread-500x500-removebg-preview.png",
+    "discount": "3",
+    "rating": 4.4,
+    "reviewsCount": 6,
+    "price": 1652,
+    "stock": "IN STOCK",
+    "labels": [],
+    "category": "Breads & Bakery",
+    "quantity": "51",
+    "summary": {
+      "shortDescription": "This is a short description for Product 16 – Breads."
+    },
+    "details": {
+      "description": "This is a detailed description for Product 16 – Breads. Quality assured.",
+      "images": [
+        "https://i.ibb.co/hxWLf34B/ea537991dadbe489565ab20b2cb83e3c47b2e589.jpg"
+      ],
+      "specialOfferCountdown": [
+        "52",
+        "43",
+        "73",
+        "15"
+      ],
+      "paymentInfo": "Cash on delivery, Google Pay, Online card",
+      "warrantyInfo": "No warranty; proper-quality products."
+    }
+  },
+  {
+    "_id": "68a3552d9ae04e14f19e90b2",
+    "name": "Product 18 – Meats",
+    "thumbnail": "https://i.ibb.co.com/NdMzhbHL/images-1-removebg-preview.png",
+    "discount": "19",
+    "rating": 1,
+    "reviewsCount": 22,
+    "price": 1670,
+    "stock": "OUT OF STOCK",
+    "labels": [],
+    "category": "Meats & Seafood",
+    "quantity": "79",
+    "summary": {
+      "shortDescription": "This is a short description for Product 18 – Meats."
+    },
+    "details": {
+      "description": "This is a detailed description for Product 18 – Meats. Quality assured.",
+      "images": [
+        "https://i.ibb.co/hxWLf34B/ea537991dadbe489565ab20b2cb83e3c47b2e589.jpg"
+      ],
+      "specialOfferCountdown": [
+        "19",
+        "25",
+        "83",
+        "16"
+      ],
+      "paymentInfo": "Cash on delivery, Google Pay, Online card",
+      "warrantyInfo": "No warranty; proper-quality products."
+    }
+  },
+  {
+    "_id": "68a3552d9ae04e14f19e90b3",
+    "name": "Product 19 – Household",
+    "thumbnail": "https://i.ibb.co.com/NdZJRqK4/images-2-removebg-preview.png",
+    "discount": "23",
+    "rating": 2,
+    "reviewsCount": 15,
+    "price": 820,
+    "stock": "IN STOCK",
+    "labels": [],
+    "category": "Household Needs",
+    "quantity": "93",
+    "summary": {
+      "shortDescription": "This is a short description for Product 19 – Household."
+    },
+    "details": {
+      "description": "This is a detailed description for Product 19 – Household. Quality assured.",
+      "images": [
+        "https://i.ibb.co/hxWLf34B/ea537991dadbe489565ab20b2cb83e3c47b2e589.jpg"
+      ],
+      "specialOfferCountdown": [
+        "24",
+        "79",
+        "75",
+        "66"
+      ],
+      "paymentInfo": "Cash on delivery, Google Pay, Online card",
+      "warrantyInfo": "No warranty; proper-quality products."
+    }
+  },
+  {
+    "_id": "68a3552d9ae04e14f19e90bc",
+    "name": "Product 28 – Healthcare",
+    "thumbnail": "https://i.ibb.co.com/JjRmbBVv/61-Eh-Tk3-CAAL-SL1024-removebg-preview.png",
+    "discount": "8",
+    "rating": 4.5,
+    "reviewsCount": 39,
+    "price": 115,
+    "stock": "OUT OF STOCK",
+    "labels": [],
+    "category": "Healthcare",
+    "quantity": "9",
+    "summary": {
+      "shortDescription": "This is a short description for Product 28 – Healthcare."
+    },
+    "details": {
+      "description": "This is a detailed description for Product 28 – Healthcare. Quality assured.",
+      "images": [
+        "https://i.ibb.co/hxWLf34B/ea537991dadbe489565ab20b2cb83e3c47b2e589.jpg"
+      ],
+      "specialOfferCountdown": [
+        "10",
+        "91",
+        "00",
+        "24"
+      ],
+      "paymentInfo": "Cash on delivery, Google Pay, Online card",
+      "warrantyInfo": "No warranty; proper-quality products."
+    }
+  },
+  {
+    "_id": "68a3552d9ae04e14f19e90c1",
+    "name": "Product 33 – Meats",
+    "thumbnail": "https://i.ibb.co.com/gLVWSnpt/Screenshot-2025-08-26-142234-removebg-preview.png",
+    "discount": "30",
+    "rating": 3.7,
+    "reviewsCount": 3,
+    "price": 1754,
+    "stock": "OUT OF STOCK",
+    "labels": [
+      "FRESH",
+      "HOT"
+    ],
+    "category": "Meats & Seafood",
+    "quantity": "62",
+    "summary": {
+      "shortDescription": "This is a short description for Product 33 – Meats."
+    },
+    "details": {
+      "description": "This is a detailed description for Product 33 – Meats. Quality assured.",
+      "images": [
+        "https://i.ibb.co/hxWLf34B/ea537991dadbe489565ab20b2cb83e3c47b2e589.jpg"
+      ],
+      "specialOfferCountdown": [
+        "36",
+        "44",
+        "42",
+        "85"
+      ],
+      "paymentInfo": "Cash on delivery, Google Pay, Online card",
+      "warrantyInfo": "No warranty; proper-quality products."
+    }
+  },
+  {
+    "_id": "68a3552d9ae04e14f19e90c2",
+    "name": "Product 34 – Frozen",
+    "thumbnail": "https://i.ibb.co.com/zhCKVXVn/images-3-removebg-preview-1.png",
+    "discount": "28",
+    "rating": 1.1,
+    "reviewsCount": 12,
+    "price": 1382,
+    "stock": "OUT OF STOCK",
+    "labels": [
+      "FRESH",
+      "NEW"
+    ],
+    "category": "Frozen Foods",
+    "quantity": "10",
+    "summary": {
+      "shortDescription": "This is a short description for Product 34 – Frozen."
+    },
+    "details": {
+      "description": "This is a detailed description for Product 34 – Frozen. Quality assured.",
+      "images": [
+        "https://i.ibb.co/hxWLf34B/ea537991dadbe489565ab20b2cb83e3c47b2e589.jpg"
+      ],
+      "specialOfferCountdown": [
+        "80",
+        "19",
+        "66",
+        "37"
+      ],
+      "paymentInfo": "Cash on delivery, Google Pay, Online card",
+      "warrantyInfo": "No warranty; proper-quality products."
+    }
+  },
+  {
+    "_id": "68a3552d9ae04e14f19e90c3",
+    "name": "Product 35 – Household",
+    "thumbnail": "https://i.ibb.co/hxWLf34B/ea537991dadbe489565ab20b2cb83e3c47b2e589.jpg",
+    "discount": "22",
+    "rating": 4.6,
+    "reviewsCount": 38,
+    "price": 489,
+    "stock": "IN STOCK",
+    "labels": [],
+    "category": "Household Needs",
+    "quantity": "53",
+    "summary": {
+      "shortDescription": "This is a short description for Product 35 – Household."
+    },
+    "details": {
+      "description": "This is a detailed description for Product 35 – Household. Quality assured.",
+      "images": [
+        "https://i.ibb.co/hxWLf34B/ea537991dadbe489565ab20b2cb83e3c47b2e589.jpg"
+      ],
+      "specialOfferCountdown": [
+        "36",
+        "68",
+        "96",
+        "93"
+      ],
+      "paymentInfo": "Cash on delivery, Google Pay, Online card",
+      "warrantyInfo": "No warranty; proper-quality products."
+    }
+  },
+  {
+    "_id": "68a3552d9ae04e14f19e90c7",
+    "name": "Product 39 – Biscuits",
+    "thumbnail": "https://i.ibb.co/hxWLf34B/ea537991dadbe489565ab20b2cb83e3c47b2e589.jpg",
+    "discount": "2",
+    "rating": 3.3,
+    "reviewsCount": 29,
+    "price": 1930,
+    "stock": "IN STOCK",
+    "labels": [
+      "FRESH",
+      "NEW"
+    ],
+    "category": "Biscuits & Snacks",
+    "quantity": "54",
+    "summary": {
+      "shortDescription": "This is a short description for Product 39 – Biscuits."
+    },
+    "details": {
+      "description": "This is a detailed description for Product 39 – Biscuits. Quality assured.",
+      "images": [
+        "https://i.ibb.co/hxWLf34B/ea537991dadbe489565ab20b2cb83e3c47b2e589.jpg"
+      ],
+      "specialOfferCountdown": [
+        "69",
+        "03",
+        "97",
+        "87"
+      ],
+      "paymentInfo": "Cash on delivery, Google Pay, Online card",
+      "warrantyInfo": "No warranty; proper-quality products."
+    }
+  },
+  {
+    "_id": "68a3552d9ae04e14f19e90ca",
+    "name": "Product 42 – Breads",
+    "thumbnail": "https://i.ibb.co/hxWLf34B/ea537991dadbe489565ab20b2cb83e3c47b2e589.jpg",
+    "discount": "16",
+    "rating": 1.4,
+    "reviewsCount": 34,
+    "price": 893,
+    "stock": "OUT OF STOCK",
+    "labels": [
+      "SALE"
+    ],
+    "category": "Breads & Bakery",
+    "quantity": "26",
+    "summary": {
+      "shortDescription": "This is a short description for Product 42 – Breads."
+    },
+    "details": {
+      "description": "This is a detailed description for Product 42 – Breads. Quality assured.",
+      "images": [
+        "https://i.ibb.co/hxWLf34B/ea537991dadbe489565ab20b2cb83e3c47b2e589.jpg"
+      ],
+      "specialOfferCountdown": [
+        "03",
+        "19",
+        "58",
+        "57"
+      ],
+      "paymentInfo": "Cash on delivery, Google Pay, Online card",
+      "warrantyInfo": "No warranty; proper-quality products."
+    }
+  },
+  {
+    "_id": "68a3552d9ae04e14f19e90cc",
+    "name": "Product 44 – Fruits",
+    "thumbnail": "https://i.ibb.co/hxWLf34B/ea537991dadbe489565ab20b2cb83e3c47b2e589.jpg",
+    "discount": "27",
+    "rating": 1.8,
+    "reviewsCount": 4,
+    "price": 890,
+    "stock": "IN STOCK",
+    "labels": [
+      "NEW",
+      "HOT"
+    ],
+    "category": "Fruits & Vegetables",
+    "quantity": "38",
+    "summary": {
+      "shortDescription": "This is a short description for Product 44 – Fruits."
+    },
+    "details": {
+      "description": "This is a detailed description for Product 44 – Fruits. Quality assured.",
+      "images": [
+        "https://i.ibb.co/hxWLf34B/ea537991dadbe489565ab20b2cb83e3c47b2e589.jpg"
+      ],
+      "specialOfferCountdown": [
+        "43",
+        "85",
+        "34",
+        "11"
+      ],
+      "paymentInfo": "Cash on delivery, Google Pay, Online card",
+      "warrantyInfo": "No warranty; proper-quality products."
+    }
+  },
+  {
+    "_id": "68a3552d9ae04e14f19e90cd",
+    "name": "Product 45 – Baby",
+    "thumbnail": "https://i.ibb.co/hxWLf34B/ea537991dadbe489565ab20b2cb83e3c47b2e589.jpg",
+    "discount": "4",
+    "rating": 4.2,
+    "reviewsCount": 6,
+    "price": 1532,
+    "stock": "OUT OF STOCK",
+    "labels": [],
+    "category": "Baby & Pregnancy",
+    "quantity": "17",
+    "summary": {
+      "shortDescription": "This is a short description for Product 45 – Baby."
+    },
+    "details": {
+      "description": "This is a detailed description for Product 45 – Baby. Quality assured.",
+      "images": [
+        "https://i.ibb.co/hxWLf34B/ea537991dadbe489565ab20b2cb83e3c47b2e589.jpg"
+      ],
+      "specialOfferCountdown": [
+        "98",
+        "41",
+        "43",
+        "11"
+      ],
+      "paymentInfo": "Cash on delivery, Google Pay, Online card",
+      "warrantyInfo": "No warranty; proper-quality products."
+    }
+  },
+  {
+    "_id": "68a3552d9ae04e14f19e90d3",
+    "name": "Product 51 – Baby",
+    "thumbnail": "https://i.ibb.co/hxWLf34B/ea537991dadbe489565ab20b2cb83e3c47b2e589.jpg",
+    "discount": "5",
+    "rating": 1.6,
+    "reviewsCount": 11,
+    "price": 1691,
+    "stock": "OUT OF STOCK",
+    "labels": [],
+    "category": "Baby & Pregnancy",
+    "quantity": "15",
+    "summary": {
+      "shortDescription": "This is a short description for Product 51 – Baby."
+    },
+    "details": {
+      "description": "This is a detailed description for Product 51 – Baby. Quality assured.",
+      "images": [
+        "https://i.ibb.co/hxWLf34B/ea537991dadbe489565ab20b2cb83e3c47b2e589.jpg"
+      ],
+      "specialOfferCountdown": [
+        "32",
+        "18",
+        "36",
+        "23"
+      ],
+      "paymentInfo": "Cash on delivery, Google Pay, Online card",
+      "warrantyInfo": "No warranty; proper-quality products."
+    }
+  },
+  {
+    "_id": "68a3552d9ae04e14f19e90d6",
+    "name": "Product 54 – Grocery",
+    "thumbnail": "https://i.ibb.co/hxWLf34B/ea537991dadbe489565ab20b2cb83e3c47b2e589.jpg",
+    "discount": "29",
+    "rating": 1.6,
+    "reviewsCount": 43,
+    "price": 1732,
+    "stock": "OUT OF STOCK",
+    "labels": [
+      "NEW"
+    ],
+    "category": "Grocery & Staples",
+    "quantity": "37",
+    "summary": {
+      "shortDescription": "This is a short description for Product 54 – Grocery."
+    },
+    "details": {
+      "description": "This is a detailed description for Product 54 – Grocery. Quality assured.",
+      "images": [
+        "https://i.ibb.co/hxWLf34B/ea537991dadbe489565ab20b2cb83e3c47b2e589.jpg"
+      ],
+      "specialOfferCountdown": [
+        "73",
+        "27",
+        "95",
+        "51"
+      ],
+      "paymentInfo": "Cash on delivery, Google Pay, Online card",
+      "warrantyInfo": "No warranty; proper-quality products."
+    }
+  },
+  {
+    "_id": "68a3552d9ae04e14f19e90a4",
+    "name": "Product 4 – Meats",
+    "thumbnail": "https://i.ibb.co/hxWLf34B/ea537991dadbe489565ab20b2cb83e3c47b2e589.jpg",
+    "discount": "24",
+    "rating": 2.8,
+    "reviewsCount": 38,
+    "price": 1364,
+    "stock": "IN STOCK",
+    "labels": [
+      "FRESH"
+    ],
+    "category": "Meats & Seafood",
+    "quantity": "0",
+    "summary": {
+      "shortDescription": "This is a short description for Product 4 – Meats."
+    },
+    "details": {
+      "description": "This is a detailed description for Product 4 – Meats. Quality assured.",
+      "images": [
+        "https://i.ibb.co/hxWLf34B/ea537991dadbe489565ab20b2cb83e3c47b2e589.jpg"
+      ],
+      "specialOfferCountdown": [
+        "12",
+        "33",
+        "55",
+        "69"
+      ],
+      "paymentInfo": "Cash on delivery, Google Pay, Online card",
+      "warrantyInfo": "No warranty; proper-quality products."
+    }
+  },
+  {
+    "_id": "68a3552d9ae04e14f19e90a7",
+    "name": "Product 7 – Grocery",
+    "thumbnail": "https://i.ibb.co/hxWLf34B/ea537991dadbe489565ab20b2cb83e3c47b2e589.jpg",
+    "discount": "28",
+    "rating": 2.3,
+    "reviewsCount": 7,
+    "price": 1371,
+    "stock": "IN STOCK",
+    "labels": [],
+    "category": "Grocery & Staples",
+    "quantity": "16",
+    "summary": {
+      "shortDescription": "This is a short description for Product 7 – Grocery."
+    },
+    "details": {
+      "description": "This is a detailed description for Product 7 – Grocery. Quality assured.",
+      "images": [
+        "https://i.ibb.co/hxWLf34B/ea537991dadbe489565ab20b2cb83e3c47b2e589.jpg"
+      ],
+      "specialOfferCountdown": [
+        "72",
+        "44",
+        "15",
+        "36"
+      ],
+      "paymentInfo": "Cash on delivery, Google Pay, Online card",
+      "warrantyInfo": "No warranty; proper-quality products."
+    }
+  },
+  {
+    "_id": "68a3552d9ae04e14f19e90ab",
+    "name": "Product 11 – Healthcare",
+    "thumbnail": "https://i.ibb.co/hxWLf34B/ea537991dadbe489565ab20b2cb83e3c47b2e589.jpg",
+    "discount": "24",
+    "rating": 3.1,
+    "reviewsCount": 36,
+    "price": 1105,
+    "stock": "IN STOCK",
+    "labels": [],
+    "category": "Healthcare",
+    "quantity": "5",
+    "summary": {
+      "shortDescription": "This is a short description for Product 11 – Healthcare."
+    },
+    "details": {
+      "description": "This is a detailed description for Product 11 – Healthcare. Quality assured.",
+      "images": [
+        "https://i.ibb.co/hxWLf34B/ea537991dadbe489565ab20b2cb83e3c47b2e589.jpg"
+      ],
+      "specialOfferCountdown": [
+        "69",
+        "38",
+        "05",
+        "93"
+      ],
+      "paymentInfo": "Cash on delivery, Google Pay, Online card",
+      "warrantyInfo": "No warranty; proper-quality products."
+    }
+  },
+  {
+    "_id": "68a3552d9ae04e14f19e90b7",
+    "name": "Product 23 – Fruits",
+    "thumbnail": "https://i.ibb.co/hxWLf34B/ea537991dadbe489565ab20b2cb83e3c47b2e589.jpg",
+    "discount": "4",
+    "rating": 1.3,
+    "reviewsCount": 36,
+    "price": 550,
+    "stock": "OUT OF STOCK",
+    "labels": [],
+    "category": "Fruits & Vegetables",
+    "quantity": "28",
+    "summary": {
+      "shortDescription": "This is a short description for Product 23 – Fruits."
+    },
+    "details": {
+      "description": "This is a detailed description for Product 23 – Fruits. Quality assured.",
+      "images": [
+        "https://i.ibb.co/hxWLf34B/ea537991dadbe489565ab20b2cb83e3c47b2e589.jpg"
+      ],
+      "specialOfferCountdown": [
+        "85",
+        "34",
+        "89",
+        "19"
+      ],
+      "paymentInfo": "Cash on delivery, Google Pay, Online card",
+      "warrantyInfo": "No warranty; proper-quality products."
+    }
+  },
+  {
+    "_id": "68a3552d9ae04e14f19e90ba",
+    "name": "Product 26 – Grocery",
+    "thumbnail": "https://i.ibb.co/hxWLf34B/ea537991dadbe489565ab20b2cb83e3c47b2e589.jpg",
+    "discount": "4",
+    "rating": 3.3,
+    "reviewsCount": 28,
+    "price": 135,
+    "stock": "IN STOCK",
+    "labels": [],
+    "category": "Grocery & Staples",
+    "quantity": "98",
+    "summary": {
+      "shortDescription": "This is a short description for Product 26 – Grocery."
+    },
+    "details": {
+      "description": "This is a detailed description for Product 26 – Grocery. Quality assured.",
+      "images": [
+        "https://i.ibb.co/hxWLf34B/ea537991dadbe489565ab20b2cb83e3c47b2e589.jpg"
+      ],
+      "specialOfferCountdown": [
+        "22",
+        "34",
+        "98",
+        "64"
+      ],
+      "paymentInfo": "Cash on delivery, Google Pay, Online card",
+      "warrantyInfo": "No warranty; proper-quality products."
+    }
+  },
+  {
+    "_id": "68a3552d9ae04e14f19e90bb",
+    "name": "Product 27 – Fruits",
+    "thumbnail": "https://i.ibb.co/hxWLf34B/ea537991dadbe489565ab20b2cb83e3c47b2e589.jpg",
+    "discount": "5",
+    "rating": 4.3,
+    "reviewsCount": 49,
+    "price": 494,
+    "stock": "IN STOCK",
+    "labels": [
+      "HOT",
+      "SALE"
+    ],
+    "category": "Fruits & Vegetables",
+    "quantity": "93",
+    "summary": {
+      "shortDescription": "This is a short description for Product 27 – Fruits."
+    },
+    "details": {
+      "description": "This is a detailed description for Product 27 – Fruits. Quality assured.",
+      "images": [
+        "https://i.ibb.co/hxWLf34B/ea537991dadbe489565ab20b2cb83e3c47b2e589.jpg"
+      ],
+      "specialOfferCountdown": [
+        "95",
+        "04",
+        "92",
+        "78"
+      ],
+      "paymentInfo": "Cash on delivery, Google Pay, Online card",
+      "warrantyInfo": "No warranty; proper-quality products."
+    }
+  },
+  {
+    "_id": "68a3552d9ae04e14f19e90c5",
+    "name": "Product 37 – Household",
+    "thumbnail": "https://i.ibb.co/hxWLf34B/ea537991dadbe489565ab20b2cb83e3c47b2e589.jpg",
+    "discount": "22",
+    "rating": 1.6,
+    "reviewsCount": 10,
+    "price": 286,
+    "stock": "OUT OF STOCK",
+    "labels": [],
+    "category": "Household Needs",
+    "quantity": "36",
+    "summary": {
+      "shortDescription": "This is a short description for Product 37 – Household."
+    },
+    "details": {
+      "description": "This is a detailed description for Product 37 – Household. Quality assured.",
+      "images": [
+        "https://i.ibb.co/hxWLf34B/ea537991dadbe489565ab20b2cb83e3c47b2e589.jpg"
+      ],
+      "specialOfferCountdown": [
+        "59",
+        "50",
+        "43",
+        "40"
+      ],
+      "paymentInfo": "Cash on delivery, Google Pay, Online card",
+      "warrantyInfo": "No warranty; proper-quality products."
+    }
+  },
+  {
+    "_id": "68a3552d9ae04e14f19e90c6",
+    "name": "Product 38 – Household",
+    "thumbnail": "https://i.ibb.co/hxWLf34B/ea537991dadbe489565ab20b2cb83e3c47b2e589.jpg",
+    "discount": "25",
+    "rating": 4.4,
+    "reviewsCount": 20,
+    "price": 1038,
+    "stock": "IN STOCK",
+    "labels": [
+      "HOT"
+    ],
+    "category": "Household Needs",
+    "quantity": "33",
+    "summary": {
+      "shortDescription": "This is a short description for Product 38 – Household."
+    },
+    "details": {
+      "description": "This is a detailed description for Product 38 – Household. Quality assured.",
+      "images": [
+        "https://i.ibb.co/hxWLf34B/ea537991dadbe489565ab20b2cb83e3c47b2e589.jpg"
+      ],
+      "specialOfferCountdown": [
+        "59",
+        "07",
+        "20",
+        "03"
+      ],
+      "paymentInfo": "Cash on delivery, Google Pay, Online card",
+      "warrantyInfo": "No warranty; proper-quality products."
+    }
+  },
+  {
+    "_id": "68a3552d9ae04e14f19e90c8",
+    "name": "Product 40 – Biscuits",
+    "thumbnail": "https://i.ibb.co/hxWLf34B/ea537991dadbe489565ab20b2cb83e3c47b2e589.jpg",
+    "discount": "6",
+    "rating": 1.8,
+    "reviewsCount": 49,
+    "price": 969,
+    "stock": "OUT OF STOCK",
+    "labels": [
+      "NEW"
+    ],
+    "category": "Biscuits & Snacks",
+    "quantity": "39",
+    "summary": {
+      "shortDescription": "This is a short description for Product 40 – Biscuits."
+    },
+    "details": {
+      "description": "This is a detailed description for Product 40 – Biscuits. Quality assured.",
+      "images": [
+        "https://i.ibb.co/hxWLf34B/ea537991dadbe489565ab20b2cb83e3c47b2e589.jpg"
+      ],
+      "specialOfferCountdown": [
+        "68",
+        "47",
+        "43",
+        "12"
+      ],
+      "paymentInfo": "Cash on delivery, Google Pay, Online card",
+      "warrantyInfo": "No warranty; proper-quality products."
+    }
+  },
+  {
+    "_id": "68a3552d9ae04e14f19e90c9",
+    "name": "Product 41 – Healthcare",
+    "thumbnail": "https://i.ibb.co/hxWLf34B/ea537991dadbe489565ab20b2cb83e3c47b2e589.jpg",
+    "discount": "11",
+    "rating": 1.5,
+    "reviewsCount": 48,
+    "price": 1493,
+    "stock": "OUT OF STOCK",
+    "labels": [
+      "HOT",
+      "ORGANIC"
+    ],
+    "category": "Healthcare",
+    "quantity": "98",
+    "summary": {
+      "shortDescription": "This is a short description for Product 41 – Healthcare."
+    },
+    "details": {
+      "description": "This is a detailed description for Product 41 – Healthcare. Quality assured.",
+      "images": [
+        "https://i.ibb.co/hxWLf34B/ea537991dadbe489565ab20b2cb83e3c47b2e589.jpg"
+      ],
+      "specialOfferCountdown": [
+        "39",
+        "46",
+        "84",
+        "17"
+      ],
+      "paymentInfo": "Cash on delivery, Google Pay, Online card",
+      "warrantyInfo": "No warranty; proper-quality products."
+    }
+  },
+  {
+    "_id": "68a3552d9ae04e14f19e90cf",
+    "name": "Product 47 – Grocery",
+    "thumbnail": "https://i.ibb.co/hxWLf34B/ea537991dadbe489565ab20b2cb83e3c47b2e589.jpg",
+    "discount": "12",
+    "rating": 2.9,
+    "reviewsCount": 21,
+    "price": 1124,
+    "stock": "OUT OF STOCK",
+    "labels": [],
+    "category": "Grocery & Staples",
+    "quantity": "73",
+    "summary": {
+      "shortDescription": "This is a short description for Product 47 – Grocery."
+    },
+    "details": {
+      "description": "This is a detailed description for Product 47 – Grocery. Quality assured.",
+      "images": [
+        "https://i.ibb.co/hxWLf34B/ea537991dadbe489565ab20b2cb83e3c47b2e589.jpg"
+      ],
+      "specialOfferCountdown": [
+        "53",
+        "12",
+        "48",
+        "36"
+      ],
+      "paymentInfo": "Cash on delivery, Google Pay, Online card",
+      "warrantyInfo": "No warranty; proper-quality products."
+    }
+  },
+  {
+    "_id": "68a3552d9ae04e14f19e90d1",
+    "name": "Product 49 – Beverages",
+    "thumbnail": "https://i.ibb.co/hxWLf34B/ea537991dadbe489565ab20b2cb83e3c47b2e589.jpg",
+    "discount": "26",
+    "rating": 2.5,
+    "reviewsCount": 8,
+    "price": 140,
+    "stock": "OUT OF STOCK",
+    "labels": [
+      "HOT"
+    ],
+    "category": "Beverages",
+    "quantity": "76",
+    "summary": {
+      "shortDescription": "This is a short description for Product 49 – Beverages."
+    },
+    "details": {
+      "description": "This is a detailed description for Product 49 – Beverages. Quality assured.",
+      "images": [
+        "https://i.ibb.co/hxWLf34B/ea537991dadbe489565ab20b2cb83e3c47b2e589.jpg"
+      ],
+      "specialOfferCountdown": [
+        "31",
+        "67",
+        "92",
+        "42"
+      ],
+      "paymentInfo": "Cash on delivery, Google Pay, Online card",
+      "warrantyInfo": "No warranty; proper-quality products."
+    }
+  },
+  {
+    "_id": "68a3552d9ae04e14f19e90a1",
+    "name": "Product 1 – Breakfast",
+    "thumbnail": "https://i.ibb.co/hxWLf34B/ea537991dadbe489565ab20b2cb83e3c47b2e589.jpg",
+    "discount": "50",
+    "rating": 3.8,
+    "reviewsCount": 12,
+    "price": 645,
+    "stock": "IN STOCK",
+    "labels": [],
+    "category": "Breakfast & Dairy",
+    "quantity": "0",
+    "summary": {
+      "shortDescription": "This is a short description for Product 1 – Breakfast."
+    },
+    "details": {
+      "description": "This is a detailed description for Product 1 – Breakfast. Quality assured.",
+      "images": [
+        "https://i.ibb.co/hxWLf34B/ea537991dadbe489565ab20b2cb83e3c47b2e589.jpg"
+      ],
+      "specialOfferCountdown": [
+        "41",
+        "17",
+        "33",
+        "40"
+      ],
+      "paymentInfo": "Cash on delivery, Google Pay, Online card",
+      "warrantyInfo": "No warranty; proper-quality products."
+    }
+  },
+  {
+    "_id": "68a3552d9ae04e14f19e90aa",
+    "name": "Product 10 – Breakfast",
+    "thumbnail": "https://i.ibb.co/hxWLf34B/ea537991dadbe489565ab20b2cb83e3c47b2e589.jpg",
+    "discount": "50",
+    "rating": 2.1,
+    "reviewsCount": 48,
+    "price": 933,
+    "stock": "IN STOCK",
+    "labels": [
+      "HOT"
+    ],
+    "category": "Breakfast & Dairy",
+    "quantity": "93",
+    "summary": {
+      "shortDescription": "This is a short description for Product 10 – Breakfast."
+    },
+    "details": {
+      "description": "This is a detailed description for Product 10 – Breakfast. Quality assured.",
+      "images": [
+        "https://i.ibb.co/hxWLf34B/ea537991dadbe489565ab20b2cb83e3c47b2e589.jpg"
+      ],
+      "specialOfferCountdown": [
+        "92",
+        "63",
+        "54",
+        "86"
+      ],
+      "paymentInfo": "Cash on delivery, Google Pay, Online card",
+      "warrantyInfo": "No warranty; proper-quality products."
+    }
+  },
+  {
+    "_id": "68a3552d9ae04e14f19e90ad",
+    "name": "Product 13 – Meats",
+    "thumbnail": "https://i.ibb.co/hxWLf34B/ea537991dadbe489565ab20b2cb83e3c47b2e589.jpg",
+    "discount": "15",
+    "rating": 3.7,
+    "reviewsCount": 20,
+    "price": 323,
+    "stock": "OUT OF STOCK",
+    "labels": [
+      "NEW"
+    ],
+    "category": "Meats & Seafood",
+    "quantity": "49",
+    "summary": {
+      "shortDescription": "This is a short description for Product 13 – Meats."
+    },
+    "details": {
+      "description": "This is a detailed description for Product 13 – Meats. Quality assured.",
+      "images": [
+        "https://i.ibb.co/hxWLf34B/ea537991dadbe489565ab20b2cb83e3c47b2e589.jpg"
+      ],
+      "specialOfferCountdown": [
+        "27",
+        "10",
+        "92",
+        "93"
+      ],
+      "paymentInfo": "Cash on delivery, Google Pay, Online card",
+      "warrantyInfo": "No warranty; proper-quality products."
+    }
+  },
+  {
+    "_id": "68a3552d9ae04e14f19e90af",
+    "name": "Product 15 – Baby",
+    "thumbnail": "https://i.ibb.co/hxWLf34B/ea537991dadbe489565ab20b2cb83e3c47b2e589.jpg",
+    "discount": "2",
+    "rating": 2.7,
+    "reviewsCount": 46,
+    "price": 1085,
+    "stock": "OUT OF STOCK",
+    "labels": [
+      "HOT",
+      "NEW"
+    ],
+    "category": "Baby & Pregnancy",
+    "quantity": "14",
+    "summary": {
+      "shortDescription": "This is a short description for Product 15 – Baby."
+    },
+    "details": {
+      "description": "This is a detailed description for Product 15 – Baby. Quality assured.",
+      "images": [
+        "https://i.ibb.co/hxWLf34B/ea537991dadbe489565ab20b2cb83e3c47b2e589.jpg"
+      ],
+      "specialOfferCountdown": [
+        "53",
+        "48",
+        "19",
+        "33"
+      ],
+      "paymentInfo": "Cash on delivery, Google Pay, Online card",
+      "warrantyInfo": "No warranty; proper-quality products."
+    }
+  },
+  {
+    "_id": "68a3552d9ae04e14f19e90b5",
+    "name": "Product 21 – Breakfast",
+    "thumbnail": "https://i.ibb.co/hxWLf34B/ea537991dadbe489565ab20b2cb83e3c47b2e589.jpg",
+    "discount": "28",
+    "rating": 3.5,
+    "reviewsCount": 45,
+    "price": 1408,
+    "stock": "IN STOCK",
+    "labels": [
+      "SALE"
+    ],
+    "category": "Breakfast & Dairy",
+    "quantity": "60",
+    "summary": {
+      "shortDescription": "This is a short description for Product 21 – Breakfast."
+    },
+    "details": {
+      "description": "This is a detailed description for Product 21 – Breakfast. Quality assured.",
+      "images": [
+        "https://i.ibb.co/hxWLf34B/ea537991dadbe489565ab20b2cb83e3c47b2e589.jpg"
+      ],
+      "specialOfferCountdown": [
+        "53",
+        "16",
+        "48",
+        "93"
+      ],
+      "paymentInfo": "Cash on delivery, Google Pay, Online card",
+      "warrantyInfo": "No warranty; proper-quality products."
+    }
+  },
+  {
+    "_id": "68a3552d9ae04e14f19e90b6",
+    "name": "Product 22 – Breakfast",
+    "thumbnail": "https://i.ibb.co/hxWLf34B/ea537991dadbe489565ab20b2cb83e3c47b2e589.jpg",
+    "discount": "16",
+    "rating": 3.7,
+    "reviewsCount": 20,
+    "price": 674,
+    "stock": "IN STOCK",
+    "labels": [
+      "NEW"
+    ],
+    "category": "Breakfast & Dairy",
+    "quantity": "78",
+    "summary": {
+      "shortDescription": "This is a short description for Product 22 – Breakfast."
+    },
+    "details": {
+      "description": "This is a detailed description for Product 22 – Breakfast. Quality assured.",
+      "images": [
+        "https://i.ibb.co/hxWLf34B/ea537991dadbe489565ab20b2cb83e3c47b2e589.jpg"
+      ],
+      "specialOfferCountdown": [
+        "83",
+        "57",
+        "50",
+        "49"
+      ],
+      "paymentInfo": "Cash on delivery, Google Pay, Online card",
+      "warrantyInfo": "No warranty; proper-quality products."
+    }
+  },
+  {
+    "_id": "68a3552d9ae04e14f19e90b8",
+    "name": "Product 24 – Fruits",
+    "thumbnail": "https://i.ibb.co/hxWLf34B/ea537991dadbe489565ab20b2cb83e3c47b2e589.jpg",
+    "discount": "10",
+    "rating": 5,
+    "reviewsCount": 8,
+    "price": 1507,
+    "stock": "OUT OF STOCK",
+    "labels": [
+      "ORGANIC"
+    ],
+    "category": "Fruits & Vegetables",
+    "quantity": "24",
+    "summary": {
+      "shortDescription": "This is a short description for Product 24 – Fruits."
+    },
+    "details": {
+      "description": "This is a detailed description for Product 24 – Fruits. Quality assured.",
+      "images": [
+        "https://i.ibb.co/hxWLf34B/ea537991dadbe489565ab20b2cb83e3c47b2e589.jpg"
+      ],
+      "specialOfferCountdown": [
+        "34",
+        "78",
+        "92",
+        "43"
+      ],
+      "paymentInfo": "Cash on delivery, Google Pay, Online card",
+      "warrantyInfo": "No warranty; proper-quality products."
+    }
+  },
+  {
+    "_id": "68a3552d9ae04e14f19e90c4",
+    "name": "Product 36 – Frozen",
+    "thumbnail": "https://i.ibb.co/hxWLf34B/ea537991dadbe489565ab20b2cb83e3c47b2e589.jpg",
+    "discount": "11",
+    "rating": 1.4,
+    "reviewsCount": 17,
+    "price": 1801,
+    "stock": "OUT OF STOCK",
+    "labels": [
+      "FRESH"
+    ],
+    "category": "Frozen Foods",
+    "quantity": "34",
+    "summary": {
+      "shortDescription": "This is a short description for Product 36 – Frozen."
+    },
+    "details": {
+      "description": "This is a detailed description for Product 36 – Frozen. Quality assured.",
+      "images": [
+        "https://i.ibb.co/hxWLf34B/ea537991dadbe489565ab20b2cb83e3c47b2e589.jpg"
+      ],
+      "specialOfferCountdown": [
+        "96",
+        "35",
+        "41",
+        "54"
+      ],
+      "paymentInfo": "Cash on delivery, Google Pay, Online card",
+      "warrantyInfo": "No warranty; proper-quality products."
+    }
+  },
+  {
+    "_id": "68a3552d9ae04e14f19e90cb",
+    "name": "Product 43 – Healthcare",
+    "thumbnail": "https://i.ibb.co/hxWLf34B/ea537991dadbe489565ab20b2cb83e3c47b2e589.jpg",
+    "discount": "3",
+    "rating": 4.4,
+    "reviewsCount": 1,
+    "price": 1912,
+    "stock": "IN STOCK",
+    "labels": [
+      "ORGANIC",
+      "NEW"
+    ],
+    "category": "Healthcare",
+    "quantity": "30",
+    "summary": {
+      "shortDescription": "This is a short description for Product 43 – Healthcare."
+    },
+    "details": {
+      "description": "This is a detailed description for Product 43 – Healthcare. Quality assured.",
+      "images": [
+        "https://i.ibb.co/hxWLf34B/ea537991dadbe489565ab20b2cb83e3c47b2e589.jpg"
+      ],
+      "specialOfferCountdown": [
+        "85",
+        "24",
+        "78",
+        "33"
+      ],
+      "paymentInfo": "Cash on delivery, Google Pay, Online card",
+      "warrantyInfo": "No warranty; proper-quality products."
+    }
+  },
+  {
+    "_id": "68a3552d9ae04e14f19e90ce",
+    "name": "Product 46 – Healthcare",
+    "thumbnail": "https://i.ibb.co/hxWLf34B/ea537991dadbe489565ab20b2cb83e3c47b2e589.jpg",
+    "discount": "7",
+    "rating": 3.8,
+    "reviewsCount": 44,
+    "price": 837,
+    "stock": "OUT OF STOCK",
+    "labels": [
+      "SALE",
+      "ORGANIC"
+    ],
+    "category": "Healthcare",
+    "quantity": "84",
+    "summary": {
+      "shortDescription": "This is a short description for Product 46 – Healthcare."
+    },
+    "details": {
+      "description": "This is a detailed description for Product 46 – Healthcare. Quality assured.",
+      "images": [
+        "https://i.ibb.co/hxWLf34B/ea537991dadbe489565ab20b2cb83e3c47b2e589.jpg"
+      ],
+      "specialOfferCountdown": [
+        "14",
+        "38",
+        "90",
+        "15"
+      ],
+      "paymentInfo": "Cash on delivery, Google Pay, Online card",
+      "warrantyInfo": "No warranty; proper-quality products."
+    }
+  },
+  {
+    "_id": "68a3552d9ae04e14f19e90d0",
+    "name": "Product 48 – Meats",
+    "thumbnail": "https://i.ibb.co/hxWLf34B/ea537991dadbe489565ab20b2cb83e3c47b2e589.jpg",
+    "discount": "26",
+    "rating": 3.2,
+    "reviewsCount": 0,
+    "price": 1143,
+    "stock": "OUT OF STOCK",
+    "labels": [
+      "NEW",
+      "ORGANIC"
+    ],
+    "category": "Meats & Seafood",
+    "quantity": "93",
+    "summary": {
+      "shortDescription": "This is a short description for Product 48 – Meats."
+    },
+    "details": {
+      "description": "This is a detailed description for Product 48 – Meats. Quality assured.",
+      "images": [
+        "https://i.ibb.co/hxWLf34B/ea537991dadbe489565ab20b2cb83e3c47b2e589.jpg"
+      ],
+      "specialOfferCountdown": [
+        "64",
+        "10",
+        "28",
+        "65"
+      ],
+      "paymentInfo": "Cash on delivery, Google Pay, Online card",
+      "warrantyInfo": "No warranty; proper-quality products."
+    }
+  },
+  {
+    "_id": "68a3552d9ae04e14f19e90d5",
+    "name": "Product 53 – Frozen",
+    "thumbnail": "https://i.ibb.co/hxWLf34B/ea537991dadbe489565ab20b2cb83e3c47b2e589.jpg",
+    "discount": "19",
+    "rating": 2.4,
+    "reviewsCount": 6,
+    "price": 868,
+    "stock": "IN STOCK",
+    "labels": [
+      "SALE",
+      "HOT"
+    ],
+    "category": "Frozen Foods",
+    "quantity": "54",
+    "summary": {
+      "shortDescription": "This is a short description for Product 53 – Frozen."
+    },
+    "details": {
+      "description": "This is a detailed description for Product 53 – Frozen. Quality assured.",
+      "images": [
+        "https://i.ibb.co/hxWLf34B/ea537991dadbe489565ab20b2cb83e3c47b2e589.jpg"
+      ],
+      "specialOfferCountdown": [
+        "81",
+        "36",
+        "63",
+        "80"
+      ],
+      "paymentInfo": "Cash on delivery, Google Pay, Online card",
+      "warrantyInfo": "No warranty; proper-quality products."
+    }
+  },
+  {
+    "_id": "68a3552d9ae04e14f19e90a2",
+    "name": "Product 2 – Beverages",
+    "thumbnail": "https://i.ibb.co/hxWLf34B/ea537991dadbe489565ab20b2cb83e3c47b2e589.jpg",
+    "discount": "7",
+    "rating": 4,
+    "reviewsCount": 18,
+    "price": 840,
+    "stock": "IN STOCK",
+    "labels": [
+      "NEW"
+    ],
+    "category": "Beverages",
+    "quantity": "91",
+    "summary": {
+      "shortDescription": "This is a short description for Product 2 – Beverages."
+    },
+    "details": {
+      "description": "This is a detailed description for Product 2 – Beverages. Quality assured.",
+      "images": [
+        "https://i.ibb.co/hxWLf34B/ea537991dadbe489565ab20b2cb83e3c47b2e589.jpg"
+      ],
+      "specialOfferCountdown": [
+        "52",
+        "41",
+        "62",
+        "74"
+      ],
+      "paymentInfo": "Cash on delivery, Google Pay, Online card",
+      "warrantyInfo": "No warranty; proper-quality products."
+    }
+  },
+  {
+    "_id": "68a3552d9ae04e14f19e90a9",
+    "name": "Product 9 – Baby",
+    "thumbnail": "https://i.ibb.co/hxWLf34B/ea537991dadbe489565ab20b2cb83e3c47b2e589.jpg",
+    "discount": "9",
+    "rating": 2.6,
+    "reviewsCount": 10,
+    "price": 1864,
+    "stock": "IN STOCK",
+    "labels": [
+      "NEW",
+      "ORGANIC"
+    ],
+    "category": "Baby & Pregnancy",
+    "quantity": "76",
+    "summary": {
+      "shortDescription": "This is a short description for Product 9 – Baby."
+    },
+    "details": {
+      "description": "This is a detailed description for Product 9 – Baby. Quality assured.",
+      "images": [
+        "https://i.ibb.co/hxWLf34B/ea537991dadbe489565ab20b2cb83e3c47b2e589.jpg"
+      ],
+      "specialOfferCountdown": [
+        "24",
+        "86",
+        "67",
+        "32"
+      ],
+      "paymentInfo": "Cash on delivery, Google Pay, Online card",
+      "warrantyInfo": "No warranty; proper-quality products."
+    }
+  },
+  {
+    "_id": "68a3552d9ae04e14f19e90b1",
+    "name": "Product 17 – Meats",
+    "thumbnail": "https://i.ibb.co/hxWLf34B/ea537991dadbe489565ab20b2cb83e3c47b2e589.jpg",
+    "discount": "11",
+    "rating": 3.6,
+    "reviewsCount": 13,
+    "price": 540,
+    "stock": "IN STOCK",
+    "labels": [
+      "SALE",
+      "NEW"
+    ],
+    "category": "Meats & Seafood",
+    "quantity": "40",
+    "summary": {
+      "shortDescription": "This is a short description for Product 17 – Meats."
+    },
+    "details": {
+      "description": "This is a detailed description for Product 17 – Meats. Quality assured.",
+      "images": [
+        "https://i.ibb.co/hxWLf34B/ea537991dadbe489565ab20b2cb83e3c47b2e589.jpg"
+      ],
+      "specialOfferCountdown": [
+        "48",
+        "69",
+        "40",
+        "38"
+      ],
+      "paymentInfo": "Cash on delivery, Google Pay, Online card",
+      "warrantyInfo": "No warranty; proper-quality products."
+    }
+  },
+  {
+    "_id": "68a3552d9ae04e14f19e90b4",
+    "name": "Product 20 – Frozen",
+    "thumbnail": "https://i.ibb.co/hxWLf34B/ea537991dadbe489565ab20b2cb83e3c47b2e589.jpg",
+    "discount": "27",
+    "rating": 2.5,
+    "reviewsCount": 44,
+    "price": 1017,
+    "stock": "OUT OF STOCK",
+    "labels": [
+      "NEW",
+      "SALE"
+    ],
+    "category": "Frozen Foods",
+    "quantity": "5",
+    "summary": {
+      "shortDescription": "This is a short description for Product 20 – Frozen."
+    },
+    "details": {
+      "description": "This is a detailed description for Product 20 – Frozen. Quality assured.",
+      "images": [
+        "https://i.ibb.co/hxWLf34B/ea537991dadbe489565ab20b2cb83e3c47b2e589.jpg"
+      ],
+      "specialOfferCountdown": [
+        "54",
+        "08",
+        "05",
+        "17"
+      ],
+      "paymentInfo": "Cash on delivery, Google Pay, Online card",
+      "warrantyInfo": "No warranty; proper-quality products."
+    }
+  },
+  {
+    "_id": "68a3552d9ae04e14f19e90b9",
+    "name": "Product 25 – Breads",
+    "thumbnail": "https://i.ibb.co/hxWLf34B/ea537991dadbe489565ab20b2cb83e3c47b2e589.jpg",
+    "discount": "25",
+    "rating": 4,
+    "reviewsCount": 48,
+    "price": 738,
+    "stock": "IN STOCK",
+    "labels": [
+      "ORGANIC"
+    ],
+    "category": "Breads & Bakery",
+    "quantity": "7",
+    "summary": {
+      "shortDescription": "This is a short description for Product 25 – Breads."
+    },
+    "details": {
+      "description": "This is a detailed description for Product 25 – Breads. Quality assured.",
+      "images": [
+        "https://i.ibb.co/hxWLf34B/ea537991dadbe489565ab20b2cb83e3c47b2e589.jpg"
+      ],
+      "specialOfferCountdown": [
+        "37",
+        "85",
+        "63",
+        "55"
+      ],
+      "paymentInfo": "Cash on delivery, Google Pay, Online card",
+      "warrantyInfo": "No warranty; proper-quality products."
+    }
+  },
+  {
+    "_id": "68a3552d9ae04e14f19e90bd",
+    "name": "Product 29 – Breakfast",
+    "thumbnail": "https://i.ibb.co/hxWLf34B/ea537991dadbe489565ab20b2cb83e3c47b2e589.jpg",
+    "discount": "50",
+    "rating": 4.3,
+    "reviewsCount": 35,
+    "price": 967,
+    "stock": "OUT OF STOCK",
+    "labels": [
+      "FRESH"
+    ],
+    "category": "Breakfast & Dairy",
+    "quantity": "9",
+    "summary": {
+      "shortDescription": "This is a short description for Product 29 – Breakfast."
+    },
+    "details": {
+      "description": "This is a detailed description for Product 29 – Breakfast. Quality assured.",
+      "images": [
+        "https://i.ibb.co/hxWLf34B/ea537991dadbe489565ab20b2cb83e3c47b2e589.jpg"
+      ],
+      "specialOfferCountdown": [
+        "92",
+        "78",
+        "97",
+        "44"
+      ],
+      "paymentInfo": "Cash on delivery, Google Pay, Online card",
+      "warrantyInfo": "No warranty; proper-quality products."
+    }
+  },
+  {
+    "_id": "68a3552d9ae04e14f19e90be",
+    "name": "Product 30 – Healthcare",
+    "thumbnail": "https://i.ibb.co/hxWLf34B/ea537991dadbe489565ab20b2cb83e3c47b2e589.jpg",
+    "discount": "50",
+    "rating": 3,
+    "reviewsCount": 41,
+    "price": 691,
+    "stock": "IN STOCK",
+    "labels": [],
+    "category": "Healthcare",
+    "quantity": "83",
+    "summary": {
+      "shortDescription": "This is a short description for Product 30 – Healthcare."
+    },
+    "details": {
+      "description": "This is a detailed description for Product 30 – Healthcare. Quality assured.",
+      "images": [
+        "https://i.ibb.co/hxWLf34B/ea537991dadbe489565ab20b2cb83e3c47b2e589.jpg"
+      ],
+      "specialOfferCountdown": [
+        "45",
+        "28",
+        "76",
+        "51"
+      ],
+      "paymentInfo": "Cash on delivery, Google Pay, Online card",
+      "warrantyInfo": "No warranty; proper-quality products."
+    }
+  },
+  {
+    "_id": "68a3552d9ae04e14f19e90bf",
+    "name": "Product 31 – Household",
+    "thumbnail": "https://i.ibb.co/hxWLf34B/ea537991dadbe489565ab20b2cb83e3c47b2e589.jpg",
+    "discount": "6",
+    "rating": 5,
+    "reviewsCount": 42,
+    "price": 1859,
+    "stock": "OUT OF STOCK",
+    "labels": [],
+    "category": "Household Needs",
+    "quantity": "72",
+    "summary": {
+      "shortDescription": "This is a short description for Product 31 – Household."
+    },
+    "details": {
+      "description": "This is a detailed description for Product 31 – Household. Quality assured.",
+      "images": [
+        "https://i.ibb.co/hxWLf34B/ea537991dadbe489565ab20b2cb83e3c47b2e589.jpg"
+      ],
+      "specialOfferCountdown": [
+        "14",
+        "97",
+        "69",
+        "92"
+      ],
+      "paymentInfo": "Cash on delivery, Google Pay, Online card",
+      "warrantyInfo": "No warranty; proper-quality products."
+    }
+  },
+  {
+    "_id": "68a3552d9ae04e14f19e90c0",
+    "name": "Product 32 – Grocery",
+    "thumbnail": "https://i.ibb.co/hxWLf34B/ea537991dadbe489565ab20b2cb83e3c47b2e589.jpg",
+    "discount": "50",
+    "rating": 4.6,
+    "reviewsCount": 23,
+    "price": 351,
+    "stock": "IN STOCK",
+    "labels": [
+      "SALE",
+      "FRESH"
+    ],
+    "category": "Grocery & Staples",
+    "quantity": "94",
+    "summary": {
+      "shortDescription": "This is a short description for Product 32 – Grocery."
+    },
+    "details": {
+      "description": "This is a detailed description for Product 32 – Grocery. Quality assured.",
+      "images": [
+        "https://i.ibb.co/hxWLf34B/ea537991dadbe489565ab20b2cb83e3c47b2e589.jpg"
+      ],
+      "specialOfferCountdown": [
+        "10",
+        "02",
+        "83",
+        "73"
+      ],
+      "paymentInfo": "Cash on delivery, Google Pay, Online card",
+      "warrantyInfo": "No warranty; proper-quality products."
+    }
+  },
+  {
+    "_id": "68a3552d9ae04e14f19e90d2",
+    "name": "Product 50 – Meats",
+    "thumbnail": "https://i.ibb.co/hxWLf34B/ea537991dadbe489565ab20b2cb83e3c47b2e589.jpg",
+    "discount": "11",
+    "rating": 4.8,
+    "reviewsCount": 6,
+    "price": 463,
+    "stock": "OUT OF STOCK",
+    "labels": [
+      "NEW",
+      "HOT"
+    ],
+    "category": "Meats & Seafood",
+    "quantity": "86",
+    "summary": {
+      "shortDescription": "This is a short description for Product 50 – Meats."
+    },
+    "details": {
+      "description": "This is a detailed description for Product 50 – Meats. Quality assured.",
+      "images": [
+        "https://i.ibb.co/hxWLf34B/ea537991dadbe489565ab20b2cb83e3c47b2e589.jpg"
+      ],
+      "specialOfferCountdown": [
+        "15",
+        "25",
+        "05",
+        "53"
+      ],
+      "paymentInfo": "Cash on delivery, Google Pay, Online card",
+      "warrantyInfo": "No warranty; proper-quality products."
+    }
+  },
+  {
+    "_id": "68a3552d9ae04e14f19e90d4",
+    "name": "Product 52 – Beverages",
+    "thumbnail": "https://i.ibb.co/hxWLf34B/ea537991dadbe489565ab20b2cb83e3c47b2e589.jpg",
+    "discount": "50",
+    "rating": 4,
+    "reviewsCount": 12,
+    "price": 1859,
+    "stock": "OUT OF STOCK",
+    "labels": [],
+    "category": "Beverages",
+    "quantity": "2",
+    "summary": {
+      "shortDescription": "This is a short description for Product 52 – Beverages."
+    },
+    "details": {
+      "description": "This is a detailed description for Product 52 – Beverages. Quality assured.",
+      "images": [
+        "https://i.ibb.co/hxWLf34B/ea537991dadbe489565ab20b2cb83e3c47b2e589.jpg"
+      ],
+      "specialOfferCountdown": [
+        "99",
+        "83",
+        "77",
+        "34"
+      ],
+      "paymentInfo": "Cash on delivery, Google Pay, Online card",
+      "warrantyInfo": "No warranty; proper-quality products."
+    }
+  }
+]
