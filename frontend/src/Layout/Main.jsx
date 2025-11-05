@@ -2,6 +2,7 @@ import { Outlet } from 'react-router-dom'
 import TopBar from '../Shared/Navbar/TopBar/TopBar'
 import HeaderNav from '../Shared/Navbar/HeaderNav/HeaderNav'
 import MainNavbar from '../Shared/Navbar/MainNavbar/MainNavbar'
+import Footer from '../Shared/Footer/Footer'
 
 function Main() {
     return (
@@ -10,6 +11,7 @@ function Main() {
             <HeaderNav></HeaderNav>
             <MainNavbar></MainNavbar>
             <Outlet></Outlet>
+            <Footer></Footer>
         </div>
     )
 }

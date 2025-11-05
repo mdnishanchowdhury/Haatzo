@@ -1,8 +1,11 @@
+import { useState } from "react";
 import { FaHeart, FaShoppingCart, FaStar } from "react-icons/fa";
+import { IoHeart, IoHeartOutline } from "react-icons/io5";
 
 const ProductCard = ({ product }) => {
+  const [isFavorite, setIsFavorite] = useState(false);
   const discountPrice = (
-    product.price -(product.price * product.discount) / 100
+    product.price - (product.price * product.discount) / 100
   ).toFixed(1);
 
   const stars = Array.from({ length: 5 }, (_, i) => (
@@ -14,15 +17,18 @@ const ProductCard = ({ product }) => {
   ));
 
   return (
-    <div className="border rounded-xl shadow-sm hover:shadow-lg transition-all duration-200 p-3 relative bg-white max-w-[240px]">
+    <div className="border border-gray-200 rounded-xl shadow-sm hover:shadow-lg transition-all duration-200 p-3 relative bg-white ">
       {/* Discount badge */}
-      <div className="absolute top-2 left-2 bg-red-500 text-white text-xs font-semibold px-2 py-1 rounded">
-        {product.discount}%
+      <div className="absolute top-3 left-3 px-2 py-1 rounded-full bg-red-600 text-white text-xs font-bold animate-pulse">
+        {product.discount}% OFF
       </div>
 
       {/* Wishlist icon */}
-      <button className="absolute top-2 right-2 text-gray-500 hover:text-red-500">
-        <FaHeart size={18} />
+      <button
+        onClick={() => setIsFavorite(!isFavorite)}
+        className="absolute top-3 right-3 text-gray-500 hover:text-red-500 transition-transform transform hover:scale-110 z-10"
+      >
+        {isFavorite ? <IoHeart size={24} className="text-red-500" /> : <IoHeartOutline size={24} />}
       </button>
 
       {/* Product Image */}
