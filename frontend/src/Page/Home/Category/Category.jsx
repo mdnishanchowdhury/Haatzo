@@ -10,13 +10,13 @@ function Category() {
     const navigate = useNavigate();
 
     const handleCategoryClick = (catName) => {
-        navigate(`/productFilter?category=${encodeURIComponent(catName)}`);
+         navigate(`/shopPage?category=${catName}`);
     };
 
     return (
         <div className="mt-12 w-full px-2 md:px-0">
             <Swiper
-             modules={[Pagination, Autoplay]} 
+                modules={[Pagination, Autoplay]}
                 spaceBetween={10}
                 pagination={{ clickable: true }}
                 className="catagorySwiper"

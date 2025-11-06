@@ -44,7 +44,7 @@
       "SALE",
       "HOT"
     ],
-    "category": "Baby & Pregnancy",
+    "category": "Baby Pregnancy",
     "quantity": "90",
     "summary": {
       "shortDescription": "This is a short description for Product 5 – Baby."
@@ -76,7 +76,7 @@
     "labels": [
       "SALE"
     ],
-    "category": "Fruits & Vegetables",
+    "category": "Fruits Vegetables",
     "quantity": "0",
     "summary": {
       "shortDescription": "This is a short description for Product 6 – Fruits."
@@ -106,7 +106,7 @@
     "price": 624,
     "stock": "OUT OF STOCK",
     "labels": [],
-    "category": "Fruits & Vegetables",
+    "category": "Fruits Vegetables",
     "quantity": "74",
     "summary": {
       "shortDescription": "This is a short description for Product 8 – Fruits."
@@ -136,7 +136,7 @@
     "price": 253,
     "stock": "IN STOCK",
     "labels": [],
-    "category": "Breads & Bakery",
+    "category": "Breads Bakery",
     "quantity": "49",
     "summary": {
       "shortDescription": "This is a short description for Product 12 – Breads."
@@ -169,7 +169,7 @@
       "FRESH",
       "NEW"
     ],
-    "category": "Baby & Pregnancy",
+    "category": "Baby Pregnancy",
     "quantity": "15",
     "summary": {
       "shortDescription": "This is a short description for Product 14 – Baby."
@@ -199,7 +199,7 @@
     "price": 1652,
     "stock": "IN STOCK",
     "labels": [],
-    "category": "Breads & Bakery",
+    "category": "Breads Bakery",
     "quantity": "51",
     "summary": {
       "shortDescription": "This is a short description for Product 16 – Breads."
@@ -229,7 +229,7 @@
     "price": 1670,
     "stock": "OUT OF STOCK",
     "labels": [],
-    "category": "Meats & Seafood",
+    "category": "Meats Seafood",
     "quantity": "79",
     "summary": {
       "shortDescription": "This is a short description for Product 18 – Meats."
@@ -322,7 +322,7 @@
       "FRESH",
       "HOT"
     ],
-    "category": "Meats & Seafood",
+    "category": "Meats Seafood",
     "quantity": "62",
     "summary": {
       "shortDescription": "This is a short description for Product 33 – Meats."
@@ -418,7 +418,7 @@
       "FRESH",
       "NEW"
     ],
-    "category": "Biscuits & Snacks",
+    "category": "Biscuits Snacks",
     "quantity": "54",
     "summary": {
       "shortDescription": "This is a short description for Product 39 – Biscuits."
@@ -450,7 +450,7 @@
     "labels": [
       "SALE"
     ],
-    "category": "Breads & Bakery",
+    "category": "Breads Bakery",
     "quantity": "26",
     "summary": {
       "shortDescription": "This is a short description for Product 42 – Breads."
@@ -483,7 +483,7 @@
       "NEW",
       "HOT"
     ],
-    "category": "Fruits & Vegetables",
+    "category": "Fruits Vegetables",
     "quantity": "38",
     "summary": {
       "shortDescription": "This is a short description for Product 44 – Fruits."
@@ -513,7 +513,7 @@
     "price": 1532,
     "stock": "OUT OF STOCK",
     "labels": [],
-    "category": "Baby & Pregnancy",
+    "category": "Baby Pregnancy",
     "quantity": "17",
     "summary": {
       "shortDescription": "This is a short description for Product 45 – Baby."
@@ -543,7 +543,7 @@
     "price": 1691,
     "stock": "OUT OF STOCK",
     "labels": [],
-    "category": "Baby & Pregnancy",
+    "category": "Baby Pregnancy",
     "quantity": "15",
     "summary": {
       "shortDescription": "This is a short description for Product 51 – Baby."
@@ -575,7 +575,7 @@
     "labels": [
       "NEW"
     ],
-    "category": "Grocery & Staples",
+    "category": "Grocery Staples",
     "quantity": "37",
     "summary": {
       "shortDescription": "This is a short description for Product 54 – Grocery."
@@ -607,7 +607,7 @@
     "labels": [
       "FRESH"
     ],
-    "category": "Meats & Seafood",
+    "category": "Meats Seafood",
     "quantity": "0",
     "summary": {
       "shortDescription": "This is a short description for Product 4 – Meats."
@@ -637,7 +637,7 @@
     "price": 1371,
     "stock": "IN STOCK",
     "labels": [],
-    "category": "Grocery & Staples",
+    "category": "Grocery Staples",
     "quantity": "16",
     "summary": {
       "shortDescription": "This is a short description for Product 7 – Grocery."
@@ -697,7 +697,7 @@
     "price": 550,
     "stock": "OUT OF STOCK",
     "labels": [],
-    "category": "Fruits & Vegetables",
+    "category": "Fruits Vegetables",
     "quantity": "28",
     "summary": {
       "shortDescription": "This is a short description for Product 23 – Fruits."
@@ -727,7 +727,7 @@
     "price": 135,
     "stock": "IN STOCK",
     "labels": [],
-    "category": "Grocery & Staples",
+    "category": "Grocery Staples",
     "quantity": "98",
     "summary": {
       "shortDescription": "This is a short description for Product 26 – Grocery."
@@ -760,7 +760,7 @@
       "HOT",
       "SALE"
     ],
-    "category": "Fruits & Vegetables",
+    "category": "Fruits Vegetables",
     "quantity": "93",
     "summary": {
       "shortDescription": "This is a short description for Product 27 – Fruits."
@@ -854,7 +854,7 @@
     "labels": [
       "NEW"
     ],
-    "category": "Biscuits & Snacks",
+    "category": "Biscuits Snacks",
     "quantity": "39",
     "summary": {
       "shortDescription": "This is a short description for Product 40 – Biscuits."
@@ -917,7 +917,7 @@
     "price": 1124,
     "stock": "OUT OF STOCK",
     "labels": [],
-    "category": "Grocery & Staples",
+    "category": "Grocery Staples",
     "quantity": "73",
     "summary": {
       "shortDescription": "This is a short description for Product 47 – Grocery."
@@ -979,7 +979,7 @@
     "price": 645,
     "stock": "IN STOCK",
     "labels": [],
-    "category": "Breakfast & Dairy",
+    "category": "Breakfast Dairy",
     "quantity": "0",
     "summary": {
       "shortDescription": "This is a short description for Product 1 – Breakfast."
@@ -1011,7 +1011,7 @@
     "labels": [
       "HOT"
     ],
-    "category": "Breakfast & Dairy",
+    "category": "Breakfast Dairy",
     "quantity": "93",
     "summary": {
       "shortDescription": "This is a short description for Product 10 – Breakfast."
@@ -1043,7 +1043,7 @@
     "labels": [
       "NEW"
     ],
-    "category": "Meats & Seafood",
+    "category": "Meats Seafood",
     "quantity": "49",
     "summary": {
       "shortDescription": "This is a short description for Product 13 – Meats."
@@ -1076,7 +1076,7 @@
       "HOT",
       "NEW"
     ],
-    "category": "Baby & Pregnancy",
+    "category": "Baby Pregnancy",
     "quantity": "14",
     "summary": {
       "shortDescription": "This is a short description for Product 15 – Baby."
@@ -1108,7 +1108,7 @@
     "labels": [
       "SALE"
     ],
-    "category": "Breakfast & Dairy",
+    "category": "Breakfast Dairy",
     "quantity": "60",
     "summary": {
       "shortDescription": "This is a short description for Product 21 – Breakfast."
@@ -1140,7 +1140,7 @@
     "labels": [
       "NEW"
     ],
-    "category": "Breakfast & Dairy",
+    "category": "Breakfast Dairy",
     "quantity": "78",
     "summary": {
       "shortDescription": "This is a short description for Product 22 – Breakfast."
@@ -1172,7 +1172,7 @@
     "labels": [
       "ORGANIC"
     ],
-    "category": "Fruits & Vegetables",
+    "category": "Fruits Vegetables",
     "quantity": "24",
     "summary": {
       "shortDescription": "This is a short description for Product 24 – Fruits."
@@ -1303,7 +1303,7 @@
       "NEW",
       "ORGANIC"
     ],
-    "category": "Meats & Seafood",
+    "category": "Meats Seafood",
     "quantity": "93",
     "summary": {
       "shortDescription": "This is a short description for Product 48 – Meats."
@@ -1401,7 +1401,7 @@
       "NEW",
       "ORGANIC"
     ],
-    "category": "Baby & Pregnancy",
+    "category": "Baby Pregnancy",
     "quantity": "76",
     "summary": {
       "shortDescription": "This is a short description for Product 9 – Baby."
@@ -1434,7 +1434,7 @@
       "SALE",
       "NEW"
     ],
-    "category": "Meats & Seafood",
+    "category": "Meats Seafood",
     "quantity": "40",
     "summary": {
       "shortDescription": "This is a short description for Product 17 – Meats."
@@ -1499,7 +1499,7 @@
     "labels": [
       "ORGANIC"
     ],
-    "category": "Breads & Bakery",
+    "category": "Breads Bakery",
     "quantity": "7",
     "summary": {
       "shortDescription": "This is a short description for Product 25 – Breads."
@@ -1531,7 +1531,7 @@
     "labels": [
       "FRESH"
     ],
-    "category": "Breakfast & Dairy",
+    "category": "Breakfast Dairy",
     "quantity": "9",
     "summary": {
       "shortDescription": "This is a short description for Product 29 – Breakfast."
@@ -1624,7 +1624,7 @@
       "SALE",
       "FRESH"
     ],
-    "category": "Grocery & Staples",
+    "category": "Grocery Staples",
     "quantity": "94",
     "summary": {
       "shortDescription": "This is a short description for Product 32 – Grocery."
@@ -1657,7 +1657,7 @@
       "NEW",
       "HOT"
     ],
-    "category": "Meats & Seafood",
+    "category": "Meats Seafood",
     "quantity": "86",
     "summary": {
       "shortDescription": "This is a short description for Product 50 – Meats."

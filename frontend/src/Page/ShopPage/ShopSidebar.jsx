@@ -1,5 +1,5 @@
-import { useState } from "react";
-import { Link } from "react-router-dom";
+import { useEffect, useState } from "react";
+import { Link, useSearchParams } from "react-router-dom";
 import useCategory from "../../Hook/useCategory";
 import useProducts from "../../Hook/useProducts";
 import ShopPage from "./ShopPage";
@@ -10,14 +10,42 @@ export default function ShopSidebar() {
     const [category] = useCategory();
     const [products] = useProducts();
     const [filterCategory, setFilterCategory] = useState([]);
+    const [selectedCategory, setSelectedCategory] = useState("All");
 
-    // console.log(products);
+    const [searchParams] = useSearchParams();
+    const categoryName = searchParams.get("category");
 
+    console.log("name", categoryName);
+
+
+    // Products filter
+    useEffect(() => {
+        if (products?.length > 0) {
+            let filtered = [...products];
+
+            if (categoryName) {
+                filtered = filtered.filter(p => p.category === categoryName);
+                setSelectedCategory(categoryName);
+            }
+            else {
+                setSelectedCategory("All");
+            }
+            setFilterCategory(filtered);
+        }
+    }, [products, categoryName]);
+
+// category
     const handleCategory = (selectedCategory) => {
-
-        const ProductFilter = products.filter((product) => product.category === selectedCategory)
-        setFilterCategory(ProductFilter);
-    }
+        if (selectedCategory === "All") {
+            setFilterCategory(products);
+        } else {
+            const filtered = products.filter(
+                (product) => product.category === selectedCategory
+            );
+            setFilterCategory(filtered);
+        }
+        setSelectedCategory(selectedCategory);
+    };
 
     return (
 
@@ -83,13 +111,31 @@ export default function ShopSidebar() {
                 <div>
                     <h2 className="text-base font-semibold mb-3">Product Categories</h2>
                     <ul className="space-y-2 text-sm text-gray-700">
+
+                        <li className="flex items-center justify-between">
+                            <button
+                                onClick={() => handleCategory("All")}
+                                className={`px-2 py-1 rounded-md transition-all duration-200 ${selectedCategory === "All"
+                                    ? "bg-gray-900 text-white"
+                                    : "text-gray-700 hover:text-gray-900"
+                                    }`}
+                            >
+                                All
+                            </button>
+                            <span className="text-gray-400 text-xs font-bold">+</span>
+                        </li>
                         {
                             category.map((cat, idx) => (
                                 <li key={idx} className="flex items-center justify-between">
-                                    <label className="flex items-center gap-2 cursor-pointer">
-                                      
-                                        <button onClick={() => handleCategory(cat.name)}>{cat.name}</button>
-                                    </label>
+                                    <button
+                                        onClick={() => handleCategory(cat.name)}
+                                        className={`px-2 py-1 rounded-md transition-all duration-200 ${selectedCategory === cat.name
+                                            ? "bg-gray-900 text-white"
+                                            : "text-gray-700 hover:text-gray-900"
+                                            }`}
+                                    >
+                                        {cat.name}
+                                    </button>
                                     <span className="text-gray-400 text-xs font-bold">+</span>
                                 </li>
                             ))

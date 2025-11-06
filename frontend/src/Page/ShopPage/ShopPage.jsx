@@ -38,7 +38,7 @@ import { FaHeart, FaShoppingCart } from "react-icons/fa";
 // ];
 
 export default function ShopPage({products}) {
-console.log("product",products)
+// console.log("product",products)
     return (
         <div className="w-full">
             {/* Sidebar */}
