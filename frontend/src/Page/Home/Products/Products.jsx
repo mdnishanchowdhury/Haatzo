@@ -1,13 +1,9 @@
-import { useNavigate } from "react-router-dom";
+import { Link } from "react-router-dom";
 import useProducts from "../../../Hook/useProducts";
 import ProductCards from "./ProductCards";
 
 function Products() {
   const [products] = useProducts();
-  const navigate = useNavigate();
-
-
-  const handleViewAllClick = () => navigate("/productFilter");
 
   const displayedProducts = products.slice(0, 12);
 
@@ -21,12 +17,13 @@ function Products() {
             Do not miss the current offers until the end of March.
           </p>
         </div>
-        <button
-          onClick={handleViewAllClick}
-          className="text-sm text-gray-700 border px-4 py-1 rounded-full hover:bg-gray-100 transition"
-        >
-          View All →
-        </button>
+        <Link to="shopPage">
+          <button
+            className="text-sm text-gray-700 border px-4 py-1 rounded-full hover:bg-gray-100 transition"
+          >
+            View All →
+          </button>
+        </Link>
       </div>
 
       <ProductCards items={displayedProducts} />

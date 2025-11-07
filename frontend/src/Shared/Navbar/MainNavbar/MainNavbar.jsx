@@ -17,10 +17,10 @@ function MainNavbar() {
 
 
     // category handler
-    const handleCategoryClick = (name) => {
-        setActiveCategory(name);
+    const handleCategoryClick = (cat) => {
+        setActiveCategory(cat);
         setCategoryOpen(false);
-        navigate(`/category/${name}`);
+        navigate(`/shopPage?category=${cat}`);
     }
 
     // navbar button css

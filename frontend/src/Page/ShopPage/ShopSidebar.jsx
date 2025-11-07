@@ -4,7 +4,7 @@ import useCategory from "../../Hook/useCategory";
 import useProducts from "../../Hook/useProducts";
 import ShopPage from "./ShopPage";
 
-export default function ShopSidebar() {
+function ShopSidebar() {
     const [minPrice, setMinPrice] = useState(0);
     const [maxPrice, setMaxPrice] = useState(30);
     const [category] = useCategory();
@@ -15,11 +15,9 @@ export default function ShopSidebar() {
     const [searchParams] = useSearchParams();
     const categoryName = searchParams.get("category");
 
-    console.log("name", categoryName);
-
-
     // Products filter
     useEffect(() => {
+        window.scrollTo({ top: 0, left: 0 });
         if (products?.length > 0) {
             let filtered = [...products];
 
@@ -34,7 +32,7 @@ export default function ShopSidebar() {
         }
     }, [products, categoryName]);
 
-// category
+    // category
     const handleCategory = (selectedCategory) => {
         if (selectedCategory === "All") {
             setFilterCategory(products);
@@ -194,3 +192,4 @@ export default function ShopSidebar() {
     );
 
 }
+export default ShopSidebar;
