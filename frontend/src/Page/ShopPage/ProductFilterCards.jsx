@@ -1,9 +1,10 @@
 import { useState } from "react";
 import { FaHeart, FaShoppingCart } from "react-icons/fa";
 
-function ShopPage({ products }) {
+function ProductFilterCards({ products }) {
     const [visibleCount, setVisibleCount] = useState(20);
     const [loading, setLoading] = useState(false);
+  
 
     const handleLoadMore = () => {
         setLoading(true);
@@ -17,9 +18,9 @@ function ShopPage({ products }) {
 
     return (
         <div className="w-full">
-            {/* Main Content */}
-            <main className="flex-1 p-6">
-                {/* Banner */}
+
+            {/* filter bar */}
+            <div className="flex-1 ">
                 <div
                     className="rounded-2xl p-8 h-[276px] flex justify-between items-center bg-cover bg-center bg-no-repeat"
                     style={{
@@ -43,7 +44,7 @@ function ShopPage({ products }) {
                 </div>
 
                 {/* Products Grid */}
-                <div className="mt-8 grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6">
+                <div className="mt-8 grid grid-cols-2 sm:grid-cols-2 lg:grid-cols-4 gap-6">
                     {
                         products.slice(0, visibleCount).map((item) => (
                             <div
@@ -66,15 +67,6 @@ function ShopPage({ products }) {
                                     {item.name}
                                 </h3>
 
-                                {/* <div className="mt-2 flex items-center gap-2">
-                                <span className="text-lg font-semibold text-green-600">
-                                    ${item.price.toFixed(2)}
-                                </span>
-                                <span className="text-sm line-through text-gray-400">
-                                    ${item.oldPrice.toFixed(2)}
-                                </span>
-                            </div> */}
-
                                 <p className="text-xs text-green-600 font-medium mt-1">
                                     IN STOCK
                                 </p>
@@ -85,13 +77,14 @@ function ShopPage({ products }) {
                             </div>
                         ))}
                 </div>
-            </main>
+            </div>
+
             {
                 visibleCount < products.length && (
                     <div className="w-full mx-auto text-center py-5">
                         <button
                             onClick={handleLoadMore}
-                             disabled={loading}
+                            disabled={loading}
                             className="btn btn-wide bg-blue-500 text-white">
                             {loading ? "loading.." : "Load More"}
                         </button>
@@ -101,4 +94,4 @@ function ShopPage({ products }) {
         </div>
     );
 }
-export default ShopPage;
+export default ProductFilterCards;

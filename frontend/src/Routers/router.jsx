@@ -1,7 +1,7 @@
 import { createBrowserRouter } from "react-router-dom";
 import Main from "../Layout/Main";
 import Home from "../Page/Home/Home/Home";
-import ShopSidebar from "../Page/ShopPage/ShopSidebar";
+import FilterProductPage from "../Page/ShopPage/FilterProductPage";
 
 export const router = createBrowserRouter([
     {
@@ -13,8 +13,8 @@ export const router = createBrowserRouter([
                 element: <Home></Home>
             },
             {
-                path: 'shopPage',
-                element: <ShopSidebar></ShopSidebar>
+                path: 'filterPage',
+                element: <FilterProductPage></FilterProductPage>
             },
             {
                 path: '*',

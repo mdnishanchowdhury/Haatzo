@@ -17,7 +17,7 @@ function Products() {
             Do not miss the current offers until the end of March.
           </p>
         </div>
-        <Link to="shopPage">
+        <Link to="filterPage">
           <button
             className="text-sm text-gray-700 border px-4 py-1 rounded-full hover:bg-gray-100 transition"
           >

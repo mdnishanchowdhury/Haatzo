@@ -20,7 +20,7 @@ function MainNavbar() {
     const handleCategoryClick = (cat) => {
         setActiveCategory(cat);
         setCategoryOpen(false);
-        navigate(`/shopPage?category=${cat}`);
+        navigate(`/filterPage?category=${cat}`);
     }
 
     // navbar button css

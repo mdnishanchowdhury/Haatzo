@@ -10,7 +10,7 @@ function Category() {
     const navigate = useNavigate();
 
     const handleCategoryClick = (catName) => {
-         navigate(`/shopPage?category=${catName}`);
+        navigate(`/filterPage?category=${catName}`);
     };
 
     return (
