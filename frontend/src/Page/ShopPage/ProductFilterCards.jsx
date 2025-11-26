@@ -78,7 +78,6 @@ function ProductFilterCards({ products }) {
                         ))}
                 </div>
             </div>
-
             {
                 visibleCount < products.length && (
                     <div className="w-full mx-auto text-center py-5">
