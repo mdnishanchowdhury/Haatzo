@@ -51,12 +51,12 @@ Deep-dive into products with sidebar filtering and price widgets.
 
 ### Installation
 Clone the repository:
-
 ```bash
 git clone [https://github.com/your-username/haatzo.git](https://github.com/mdnishanchowdhury/Haatzo.git)
 cd haatzo
 Install dependencies:
-``
+```
+### Terminal Run
 ```bash
 npm install
 npm run dev
