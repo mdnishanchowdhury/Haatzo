@@ -71,10 +71,10 @@ This will install all required packages including React, Tailwind CSS, Styled Co
 ```bash
 npm run dev
 ```
-This will start the project locally. By default, it runs on http://localhost:3000.
+This will start the project locally. By default, it runs on http://localhost:5173.
 
 ### Step 5: Open in Browser
 Open your browser and visit:
-http://localhost:3000
+http://localhost:5173
 You should now see the Haatzo website running on your local machine.
 
