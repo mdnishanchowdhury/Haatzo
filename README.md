@@ -47,20 +47,34 @@ Deep-dive into products with sidebar filtering and price widgets.
 
 ---
 
-## 🏁 Getting Started
+### Installation Steps for Haatzo Project
 
-### Installation
-Clone the repository:
+### Step 1: Clone the Repository
+Copy the repository to your local machine:
 ```bash
-git clone [https://github.com/your-username/haatzo.git](https://github.com/mdnishanchowdhury/Haatzo.git)
-cd haatzo
-Install dependencies:
+git clone https://github.com/mdnishanchowdhury/Haatzo.git
 ```
-### Terminal Run
+This will create a folder named Haatzo in your current directory containing the project files.
+
+### Step 2: Navigate to the Project Folder
+```bash
+cd Haatzo
+```
+Now you are inside the project folder where the package.json file is located.
+
+### Step 3: Install Dependencies
 ```bash
 npm install
-npm run dev
 ```
-### Open http:
-localhost:3000 to view the result.
+This will install all required packages including React, Tailwind CSS, Styled Components, Recharts, and more.
+### Step 4: Run the Development Server
+
+npm run dev
+
+This will start the project locally. By default, it runs on http://localhost:3000.
+
+### Step 5: Open in Browser
+Open your browser and visit:
+http://localhost:3000
+You should now see the Haatzo website running on your local machine.
 
