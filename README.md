@@ -49,26 +49,18 @@ Deep-dive into products with sidebar filtering and price widgets.
 
 ## 🏁 Getting Started
 
-### Prerequisites
-- Node.js (v18 or higher)  
-- npm or yarn  
-
 ### Installation
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/haatzo.git
+git clone [https://github.com/your-username/haatzo.git](https://github.com/mdnishanchowdhury/Haatzo.git)
 cd haatzo
 Install dependencies:
-
-bash
-Copy code
+``
+```bash
 npm install
-Run the development server:
-
-bash
-Copy code
 npm run dev
+``
 Open http://localhost:3000 to view the result.
 
 📂 Project Structure
