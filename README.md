@@ -60,26 +60,7 @@ Install dependencies:
 ```bash
 npm install
 npm run dev
-``
-Open http://localhost:3000 to view the result.
+```
+### Open http:
+ //localhost:3000 to view the result.
 
-📂 Project Structure
-/components - Reusable UI elements (Product cards, Filters, Nav)
-
-/pages - Main application routes (Home, Shop, Categories)
-
-/public - Static assets and images
-
-/styles - Global CSS and theme configurations
-
-📄 License
-Distributed under the MIT License. See LICENSE for more information.
-
-Developed with ❤️ by the Haatzo Team
-
-pgsql
-Copy code
-
-If you want, I can also **add a “Backend & API” section** in this README to make it full-stack ready for your Node.js backend APIs. This is useful if you want to show the connection between frontend and backend.  
-
-Do you want me to add that?
