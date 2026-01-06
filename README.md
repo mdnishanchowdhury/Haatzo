@@ -39,11 +39,11 @@ Haatzo is a full-featured, responsive e-commerce web application designed for a 
 
 ### Home Page
 Displays trending products, categories, and promotional banners.  
-*(Include your first screenshot here)*
+![Home Page Screenshot](https://i.ibb.co.com/d46Y22vN/11.png)
 
 ### Shop & Filter Page
 Deep-dive into products with sidebar filtering and price widgets.  
-*(Include your second screenshot here)*
+![Shop & Filter Screenshot](https://i.ibb.co.com/VpPF4sWs/222i.png)
 
 ---
 
@@ -62,5 +62,5 @@ npm install
 npm run dev
 ```
 ### Open http:
- //localhost:3000 to view the result.
+localhost:3000 to view the result.
 
