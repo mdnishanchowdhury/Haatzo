@@ -68,9 +68,9 @@ npm install
 ```
 This will install all required packages including React, Tailwind CSS, Styled Components, Recharts, and more.
 ### Step 4: Run the Development Server
-
+```bash
 npm run dev
-
+```
 This will start the project locally. By default, it runs on http://localhost:3000.
 
 ### Step 5: Open in Browser
